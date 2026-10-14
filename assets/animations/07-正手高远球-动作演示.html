@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>正手高远球 · 动作循环演示</title>
+<style>
+:root{--font-sans:-apple-system,'PingFang SC','Hiragino Sans GB','Noto Sans SC','Microsoft YaHei',sans-serif;--color-text-primary:#2C2C2A;--color-text-secondary:#5F5E5A;--color-text-tertiary:#888780;--color-background-primary:#FFFFFF;--color-background-secondary:#F1EFE8;--color-border-tertiary:#D3D1C7;--border-radius-md:8px;--border-radius-lg:10px}
+body{margin:0;padding:24px;background:#FAF9F5}
+.wrap{max-width:680px;margin:0 auto}
+</style>
+</head>
+<body>
+<h2 class="sr-only">正手高远球四步动作循环演示动画，支持播放、暂停、拖动进度与慢放。</h2>
+<div class="wrap">
+<div class="top"><span class="t1">正手高远球 · 动作演示</span><span class="legend"><span class="dot"></span>关节位置 · 侧面视角 右手持拍</span></div>
+<svg id="stage" viewBox="0 0 680 280" width="100%" role="img" aria-label="正手高远球四步动画">
+<line x1="120" y1="235" x2="560" y2="235" stroke="#D3D1C7" stroke-width="1.5"/>
+<g stroke="#444441" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<polyline id="legF" points="338.5,181 325.5,207 316.5,233 302.5,233"/>
+<polyline id="legB" points="338.5,181 350.5,209 356.5,233 364.5,233"/>
+<line id="torso" x1="338.5" y1="135" x2="338.5" y2="181"/>
+<polyline id="armL" points="338.5,135 325.5,118 312.5,105"/>
+<polyline id="armR" points="338.5,135 347.5,152 340.5,169"/>
+<line id="shaft" x1="340.5" y1="169" x2="334.5" y2="150"/>
+<ellipse id="rhead" cx="332.5" cy="143" rx="5" ry="10" transform="rotate(-8 332.5 143)" stroke-width="2"/>
+</g>
+<circle id="head" cx="338.5" cy="118" r="12" fill="#FFFFFF" stroke="#444441" stroke-width="3.5"/>
+<g id="joints" fill="#D85A30" stroke="#FFFFFF" stroke-width="1.2">
+<circle cx="338.5" cy="135" r="3.4"/><circle cx="325.5" cy="118" r="3.4"/><circle cx="312.5" cy="105" r="3.4"/><circle cx="347.5" cy="152" r="3.4"/><circle cx="340.5" cy="169" r="3.4"/><circle cx="338.5" cy="181" r="3.4"/><circle cx="325.5" cy="207" r="3.4"/><circle cx="316.5" cy="233" r="3.4"/><circle cx="350.5" cy="209" r="3.4"/><circle cx="356.5" cy="233" r="3.4"/>
+</g>
+<g id="flash" opacity="0">
+<circle r="16" fill="none" stroke="#D85A30" stroke-width="2" stroke-dasharray="4 3"/>
+<g stroke="#D85A30" stroke-width="2" stroke-linecap="round">
+<line x1="-22" y1="0" x2="-13" y2="0"/><line x1="22" y1="0" x2="13" y2="0"/><line x1="0" y1="-22" x2="0" y2="-13"/><line x1="0" y1="22" x2="0" y2="13"/><line x1="-16" y1="-16" x2="-10" y2="-10"/><line x1="16" y1="16" x2="10" y2="10"/>
+</g>
+</g>
+<g id="shuttle" opacity="0">
+<path d="M-2,-1 L-15,-9 L-13,1 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle r="3.2" fill="#D85A30"/>
+</g>
+<text id="lblIn" font-size="12" fill="#888780" opacity="0">来球</text>
+<text id="lblHit" x="300" y="62" font-size="12" font-weight="500" fill="#993C1D" opacity="0">击球点</text>
+</svg>
+<div class="chips">
+<button class="chip on" data-i="0">① 侧身架拍</button>
+<button class="chip" data-i="1">② 倒拍引拍</button>
+<button class="chip" data-i="2">③ 挥拍击球</button>
+<button class="chip" data-i="3">④ 随挥回动</button>
+</div>
+<div class="cue" id="cue">侧身架拍：非持拍手上举指球，重心在后脚</div>
+<div class="ctrl">
+<button id="play">暂停</button>
+<input id="scrub" type="range" min="0" max="1000" value="0" aria-label="播放进度"/>
+<button class="spd" data-s="0.5">0.5x</button>
+<button class="spd on" data-s="1">1x</button>
+<button class="spd" data-s="2">2x</button>
+</div>
+<div class="chain">
+<span class="cl">发力链条</span>
+<span class="seg" id="s0">脚</span><span class="arr">→</span>
+<span class="seg" id="s1">腰</span><span class="arr">→</span>
+<span class="seg" id="s2">肩</span><span class="arr">→</span>
+<span class="seg" id="s3">肘</span><span class="arr">→</span>
+<span class="seg" id="s4">腕</span>
+<span class="cnote">力量层层传递，不是只抡胳膊</span>
+</div>
+</div>
+<style>
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.wrap{font-family:var(--font-sans);color:var(--color-text-primary)}
+.top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:4px}
+.t1{font-size:15px;font-weight:500}.legend{font-size:12px;color:var(--color-text-secondary)}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#D85A30;margin-right:6px}
+.chips{display:flex;gap:8px;margin:12px 0 6px;flex-wrap:wrap}
+.chip{font-size:12px;padding:5px 12px;border-radius:var(--border-radius-md);color:var(--color-text-secondary);cursor:pointer}
+.chip.on{background:#D85A30;color:#FFFFFF}
+.cue{font-size:12.5px;color:var(--color-text-secondary);margin:2px 0 12px;min-height:20px}
+.ctrl{display:flex;gap:8px;align-items:center;margin-bottom:14px}
+#scrub{flex:1;accent-color:#D85A30}
+.spd.on{color:#993C1D;border-color:#F0997B}
+.chain{display:flex;align-items:center;gap:6px;flex-wrap:wrap;background:var(--color-background-secondary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:10px 14px}
+.cl{font-size:12.5px;font-weight:500}
+.seg{font-size:12px;padding:4px 12px;border-radius:var(--border-radius-md);background:var(--color-background-primary);color:var(--color-text-secondary);border:0.5px solid var(--color-border-tertiary)}
+.seg.on{background:#D85A30;color:#FFFFFF;border-color:#D85A30}
+.arr{color:var(--color-text-tertiary);font-size:12px}
+.cnote{font-size:11.5px;color:var(--color-text-tertiary);margin-left:auto}
+</style>
+<script>
+(function(){
+var P=[];
+P.push({head:[338.5,118],shoulder:[338.5,135],hip:[338.5,181],elbowL:[325.5,118],wristL:[312.5,105],elbowR:[347.5,152],wristR:[340.5,169],shaft:[334.5,150],rhead:[332.5,143],rot:-8,kneeF:[325.5,207],ankleF:[316.5,233],toeF:[302.5,233],kneeB:[350.5,209],ankleB:[356.5,233],toeB:[364.5,233]});
+P.push({head:[336.5,118],shoulder:[336.5,135],hip:[342.5,181],elbowL:[323.5,118],wristL:[310.5,106],elbowR:[353.5,114],wristR:[360.5,137],shaft:[371.5,158],rhead:[375.5,166],rot:-28,kneeF:[329.5,207],ankleF:[320.5,233],toeF:[307.5,233],kneeB:[356.5,211],ankleB:[360.5,233],toeB:[367.5,233]});
+P.push({head:[332.5,116],shoulder:[334.5,131],hip:[342.5,181],elbowL:[343.5,146],wristL:[347.5,157],elbowR:[319.5,110],wristR:[306.5,97],shaft:[297.5,86],rhead:[293.5,82],rot:-40,kneeF:[327.5,205],ankleF:[314.5,233],toeF:[301.5,233],kneeB:[355.5,211],ankleB:[361.5,233],toeB:[368.5,233]});
+P.push({head:[338.5,118],shoulder:[338.5,133],hip:[340.5,181],elbowL:[351.5,122],wristL:[360.5,116],elbowR:[321.5,150],wristR:[306.5,144],shaft:[295.5,137],rhead:[291.5,134],rot:-56,kneeF:[328.5,207],ankleF:[323.5,233],toeF:[309.5,233],kneeB:[352.5,209],ankleB:[358.5,233],toeB:[365.5,233]});
+var SEG=[[0.9,1.5,0,1],[2.1,2.9,1,2],[3.5,4.3,2,3],[5.0,5.8,3,0]];
+var EF=[function(t){return t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2},function(t){return t*t*t},function(t){return 1-Math.pow(1-t,3)},function(t){return t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2}];
+var CUES=["侧身架拍：非持拍手上举指球，重心在后脚","倒拍引拍：肘领先上顶，拍头下沉像拉开的弓","挥拍击球：右前上方最高点，小臂内旋发力","随挥回动：拍挥至左侧，先回中心再接球"];
+var LOOP=5.8;
+function $(i){return document.getElementById(i)}
+function mix(a,b,k){var o={};for(var q in a){if(q=="rot")o[q]=a[q]+(b[q]-a[q])*k;else o[q]=[a[q][0]+(b[q][0]-a[q][0])*k,a[q][1]+(b[q][1]-a[q][1])*k]}return o}
+function poseAt(t){for(var i=0;i<SEG.length;i++){var s=SEG[i];if(t>=s[0]&&t<s[1])return mix(P[s[2]],P[s[3]],EF[i]((t-s[0])/(s[1]-s[0])))}if(t<0.9)return P[0];if(t<2.1)return P[1];if(t<3.5)return P[2];return P[3]}
+function phaseAt(t){return t<0.9?0:t<2.1?1:t<3.5?2:3}
+function PTS(a){var s=[];for(var i=0;i<a.length;i++)s.push(a[i][0].toFixed(1)+","+a[i][1].toFixed(1));return s.join(" ")}
+var JK=["shoulder","elbowL","wristL","elbowR","wristR","hip","kneeF","ankleF","kneeB","ankleB"];
+var J=$("joints").children;
+function render(t){
+var p=poseAt(t);
+var to=$("torso");to.setAttribute("x1",p.shoulder[0]);to.setAttribute("y1",p.shoulder[1]);to.setAttribute("x2",p.hip[0]);to.setAttribute("y2",p.hip[1]);
+$("legF").setAttribute("points",PTS([p.hip,p.kneeF,p.ankleF,p.toeF]));
+$("legB").setAttribute("points",PTS([p.hip,p.kneeB,p.ankleB,p.toeB]));
+$("armL").setAttribute("points",PTS([p.shoulder,p.elbowL,p.wristL]));
+$("armR").setAttribute("points",PTS([p.shoulder,p.elbowR,p.wristR]));
+var sh=$("shaft");sh.setAttribute("x1",p.wristR[0]);sh.setAttribute("y1",p.wristR[1]);sh.setAttribute("x2",p.shaft[0]);sh.setAttribute("y2",p.shaft[1]);
+var rh=$("rhead");rh.setAttribute("cx",p.rhead[0]);rh.setAttribute("cy",p.rhead[1]);rh.setAttribute("transform","rotate("+p.rot.toFixed(1)+" "+p.rhead[0].toFixed(1)+" "+p.rhead[1].toFixed(1)+")");
+var hd=$("head");hd.setAttribute("cx",p.head[0]);hd.setAttribute("cy",p.head[1]);
+for(var i=0;i<10;i++){J[i].setAttribute("cx",p[JK[i]][0]);J[i].setAttribute("cy",p[JK[i]][1])}
+var sk=$("shuttle"),op=0,x=0,y=0,rot=0;
+if(t>=0.4&&t<2.88){var k=(t-0.4)/2.48;k=k<.5?2*k*k:1-Math.pow(-2*k+2,2)/2;x=95+201*k;y=155-72*k;op=1;rot=-19.7}
+else if(t>=2.92&&t<4.4){var b=(t-2.92)/1.48;var q=b;b=1-Math.pow(1-b,3);x=296-224*b;y=83-55*b-28*Math.sin(Math.PI*q);op=1;rot=-166}
+sk.setAttribute("transform","translate("+x.toFixed(1)+","+y.toFixed(1)+") rotate("+rot+")");sk.setAttribute("opacity",op);
+var li=$("lblIn");li.setAttribute("x",x-2);li.setAttribute("y",y-16);li.setAttribute("opacity",op*0.9);
+var fl=$("flash"),fop=0;if(t>=2.86&&t<3.3){fop=1-(t-2.86)/0.44;fl.setAttribute("transform","translate(295,83) scale("+(0.6+(1-fop)*1.1).toFixed(2)+")")}
+fl.setAttribute("opacity",Math.max(0,fop));
+var hop=0;if(t>=2.8&&t<3.7){hop=t<2.95?1:Math.max(0,1-(t-2.95)/0.75)}
+$("lblHit").setAttribute("opacity",hop);
+var ph=phaseAt(t);var cs=document.querySelectorAll(".chip");
+for(var i=0;i<4;i++)cs[i].classList.toggle("on",i==ph);
+$("cue").textContent=CUES[ph];
+for(var i=0;i<5;i++){$("s"+i).classList.toggle("on",t>=2.1+i*0.15&&t<2.98)}
+if(!drag)$("scrub").value=Math.round(t/LOOP*1000);
+}
+var t=0,last=performance.now(),playing=true,speed=1,drag=false;
+$("play").addEventListener("click",function(){playing=!playing;this.textContent=playing?"暂停":"播放"});
+$("scrub").addEventListener("input",function(){drag=true;playing=false;$("play").textContent="播放";t=this.value/1000*LOOP;render(t)});
+$("scrub").addEventListener("change",function(){drag=false});
+document.querySelectorAll(".spd").forEach(function(b){b.addEventListener("click",function(){speed=parseFloat(this.getAttribute("data-s"));document.querySelectorAll(".spd").forEach(function(x){x.classList.remove("on")});this.classList.add("on")})});
+document.querySelectorAll(".chip").forEach(function(b){b.addEventListener("click",function(){var i=parseInt(this.getAttribute("data-i"));t=[0.45,1.8,2.5,3.9][i];playing=false;$("play").textContent="播放";render(t)})});
+function loop(now){var dt=(now-last)/1000;last=now;if(playing&&!drag){t+=dt*speed;if(t>=LOOP)t-=LOOP}render(t);requestAnimationFrame(loop)}
+render(0);requestAnimationFrame(loop);
+})();
+</script>
+</body>
+</html>
