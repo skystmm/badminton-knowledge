@@ -1,0 +1,13 @@
+{
+  "title": "双打发球站位与发球区（本场在下方）",
+  "marks": [
+    {"type": "dot", "at": [2.4, 0.9], "label": "发球员（T位附近）", "color": "white"},
+    {"type": "dot", "at": [4.4, 3.4], "label": "搭档（中场压后）", "color": "amber"},
+    {"type": "dot", "at": [1.5, 11.7], "label": "接发员（前发球线后）", "color": "white"},
+    {"type": "dot", "at": [4.3, 10.0], "label": "接发搭档（中场）", "color": "amber"},
+    {"type": "move", "from": [2.4, 0.9], "to": [2.75, 2.2], "label": "反手发网前球", "color": "red"},
+    {"type": "move", "from": [2.4, 0.9], "to": [1.3, 11.9], "label": "落到对角右发球区", "color": "red", "width": 4},
+    {"type": "zone", "rect": [0, 11.42, 3.05, 13.4], "color": "red", "alpha": 50, "label": "对方右发球区"},
+    {"type": "text", "x": 60, "y": 20, "text": "网", "size": 22, "color": "white"}
+  ]
+}
