@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 556" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>劈吊腿部动作图解</title>
+<desc>三张特写：准备站位（与高远球通用）、蹬地转移（不降拍速）、回动更快（劈吊专属节奏）。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">劈吊 · 腿部动作图解</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">标准动作示意（原理简化）· 站位蹬地与高远球通用，回动更快</text>
+<rect x="40" y="62" width="600" height="150" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">准备站位 · 通用</text>
+<line x1="60" y1="194" x2="390" y2="194" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="150" cy="102" r="9" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M150,113 L150,150"/>
+<path d="M150,150 L139,172 L133,192 L124,192"/>
+<path d="M150,150 L161,174 L167,190 L176,190"/>
+<path d="M150,113 L143,128 L140,142"/>
+<path d="M150,113 L159,129 L161,143"/>
+<line x1="161" y1="143" x2="167" y2="159"/>
+<ellipse cx="169" cy="164" rx="5" ry="10" transform="rotate(-10 169 164)" stroke-width="2"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="150" cy="113" r="3"/><circle cx="143" cy="128" r="3"/><circle cx="140" cy="142" r="3"/><circle cx="159" cy="129" r="3"/><circle cx="161" cy="143" r="3"/><circle cx="150" cy="150" r="3"/><circle cx="139" cy="172" r="3"/><circle cx="161" cy="174" r="3"/><circle cx="133" cy="192" r="3"/><circle cx="167" cy="190" r="3"/>
+</g>
+<line x1="167" y1="190" x2="167" y2="195" stroke="#888780" stroke-width="1" stroke-dasharray="2 2"/>
+<line x1="150" y1="162" x2="150" y2="174" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="136" y="170" font-size="11" fill="#5F5E5A" text-anchor="end">重心</text>
+<text x="400" y="96" font-size="11" font-weight="500" fill="#2C2C2A">本图看点</text>
+<text x="400" y="114" font-size="11" fill="#5F5E5A">站位蹬地与高远球通用</text>
+<text x="400" y="132" font-size="11" fill="#5F5E5A">双膝微屈、脚跟微抬</text>
+<text x="400" y="150" font-size="11" fill="#5F5E5A">重心压在前脚掌待命</text>
+<text x="400" y="168" font-size="11" fill="#5F5E5A">引拍幅度比轻吊稍大</text>
+<rect x="400" y="178" width="228" height="26" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="410" y="195" font-size="11" fill="#993C1D">自检：随时能蹬出去</text>
+<rect x="40" y="224" width="600" height="150" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="246" r="8" fill="#D85A30"/>
+<text x="60" y="246" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="74" y="250" font-size="12.5" font-weight="500" fill="#2C2C2A">蹬地转移 · 不降速</text>
+<line x1="60" y1="356" x2="390" y2="356" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="130" cy="262" r="9" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M130,273 L134,310"/>
+<path d="M134,310 L120,332 L114,352 L105,352"/>
+<path d="M134,310 L146,334 L150,352 L158,352"/>
+<path d="M130,273 L122,290 L118,306"/>
+<path d="M132,273 L144,254 L151,277"/>
+<line x1="151" y1="277" x2="162" y2="298"/>
+<ellipse cx="166" cy="306" rx="5" ry="10" transform="rotate(-28 166 306)" stroke-width="2"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="130" cy="273" r="3"/><circle cx="122" cy="290" r="3"/><circle cx="118" cy="306" r="3"/><circle cx="144" cy="254" r="3"/><circle cx="151" cy="277" r="3"/><circle cx="134" cy="310" r="3"/><circle cx="120" cy="332" r="3"/><circle cx="146" cy="334" r="3"/><circle cx="114" cy="352" r="3"/><circle cx="150" cy="352" r="3"/>
+</g>
+<line x1="150" y1="326" x2="150" y2="342" stroke="#D85A30" stroke-width="2.5" marker-end="url(#arrow)"/>
+<circle cx="300" cy="262" r="9" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M300,273 L304,310"/>
+<path d="M304,310 L286,332 L278,352 L268,352"/>
+<path d="M304,310 L316,334 L322,352 L330,352"/>
+<path d="M300,273 L312,290 L316,306"/>
+<path d="M300,273 L288,254 L277,243"/>
+<line x1="277" y1="243" x2="269" y2="235"/>
+<ellipse cx="265" cy="231" rx="5" ry="10" transform="rotate(-55 265 231)" stroke-width="2"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="300" cy="273" r="3"/><circle cx="312" cy="290" r="3"/><circle cx="316" cy="306" r="3"/><circle cx="288" cy="254" r="3"/><circle cx="277" cy="243" r="3"/><circle cx="304" cy="310" r="3"/><circle cx="286" cy="332" r="3"/><circle cx="316" cy="334" r="3"/><circle cx="278" cy="352" r="3"/><circle cx="322" cy="352" r="3"/>
+</g>
+<line x1="324" y1="320" x2="288" y2="320" stroke="#D85A30" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="185" y1="300" x2="235" y2="300" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="158" y="336" font-size="11" fill="#993C1D">压</text>
+<text x="332" y="316" font-size="11" fill="#993C1D">送</text>
+<text x="130" y="370" font-size="11" font-weight="500" fill="#2C2C2A" text-anchor="middle">倒拍 · 压后脚</text>
+<text x="300" y="370" font-size="11" font-weight="500" fill="#993C1D" text-anchor="middle">蹬地 · 往前送</text>
+<text x="400" y="258" font-size="11" font-weight="500" fill="#2C2C2A">本图看点</text>
+<text x="400" y="276" font-size="11" fill="#5F5E5A">蹬地转移与高远球相同</text>
+<text x="400" y="294" font-size="11" fill="#5F5E5A">关键：劈吊不降低拍速</text>
+<text x="400" y="312" font-size="11" fill="#5F5E5A">触球前那一刹才略微制动</text>
+<text x="400" y="330" font-size="11" fill="#5F5E5A">挥拍方向与出球方向不同</text>
+<rect x="400" y="344" width="228" height="26" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="410" y="361" font-size="11" fill="#993C1D">自检：拍速不减，球快而低</text>
+<rect x="40" y="386" width="600" height="150" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="408" r="8" fill="#D85A30"/>
+<text x="60" y="408" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="412" font-size="12.5" font-weight="500" fill="#2C2C2A">回动 · 更快（劈吊专属）</text>
+<line x1="80" y1="428" x2="360" y2="428" stroke="#444441" stroke-width="3"/>
+<text x="348" y="424" font-size="11" fill="#888780" text-anchor="end">球网</text>
+<line x1="215" y1="436" x2="215" y2="520" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="3 2"/>
+<rect x="197" y="468" width="36" height="28" rx="8" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<circle cx="215" cy="474" r="9" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<line x1="185" y1="474" x2="245" y2="474" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<line x1="200" y1="496" x2="230" y2="496" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="205" cy="512" rx="9" ry="5" transform="rotate(-20 205 512)" fill="#FFFFFF" stroke="#444441" stroke-width="2.5"/>
+<ellipse cx="242" cy="500" rx="9" ry="5" transform="rotate(20 242 500)" fill="#FFFFFF" stroke="#444441" stroke-width="2.5"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" fill="none">
+<path d="M245,474 L263,461 L274,450"/>
+<line x1="274" y1="450" x2="282" y2="439"/>
+</g>
+<ellipse cx="285" cy="435" rx="5" ry="10" transform="rotate(65 285 435)" fill="none" stroke="#444441" stroke-width="2"/>
+<circle cx="293" cy="429" r="8" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<circle cx="293" cy="429" r="3" fill="#D85A30"/>
+<circle cx="340" cy="466" r="5" fill="#D85A30"/>
+<path d="M334,462 Q295,442 248,422" fill="none" stroke="#888780" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<circle cx="243" cy="418" r="5" fill="#993C1D"/>
+<circle cx="243" cy="418" r="10" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="296" y="478" font-size="11" fill="#2C2C2A">击球点</text>
+<text x="256" y="414" font-size="11" font-weight="500" fill="#993C1D">中心</text>
+<text x="270" y="444" font-size="11" fill="#5F5E5A">小碎步快速回中</text>
+<text x="400" y="420" font-size="11" font-weight="500" fill="#2C2C2A">本图看点</text>
+<text x="400" y="438" font-size="11" fill="#5F5E5A">劈吊球速快、对手回球快</text>
+<text x="400" y="456" font-size="11" fill="#5F5E5A">衔接时间比轻吊短得多</text>
+<text x="400" y="474" font-size="11" fill="#5F5E5A">随挥短，拍收到胸前</text>
+<text x="400" y="492" font-size="11" fill="#5F5E5A">先回中心，小碎步调整</text>
+<rect x="400" y="504" width="228" height="26" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="410" y="521" font-size="11" fill="#993C1D">自检：回动比轻吊快半拍</text>
+</svg>
