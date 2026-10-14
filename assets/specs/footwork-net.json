@@ -1,0 +1,13 @@
+{
+  "title": "正手网前三步上网（右手持拍，本场在下方）",
+  "half": true,
+  "marks": [
+    {"type": "dot", "at": [3.05, 3.4], "label": "① 准备站位", "color": "white"},
+    {"type": "move", "from": [3.05, 3.4], "to": [3.05, 4.6], "label": "② 蹬跨", "color": "amber"},
+    {"type": "move", "from": [3.05, 4.6], "to": [2.2, 5.5], "label": "③ 交叉", "color": "amber"},
+    {"type": "move", "from": [2.2, 5.5], "to": [1.7, 6.15], "label": "④ 跨步制动", "color": "red"},
+    {"type": "zone", "rect": [0, 4.72, 6.1, 6.7], "color": "green", "alpha": 55, "label": "网前区域"},
+    {"type": "text", "x": 60, "y": 20, "text": "网", "size": 22, "color": "white"},
+    {"type": "text", "x": 60, "y": 940, "text": "回位：蹬地两步退回准备站位", "size": 20, "color": "white"}
+  ]
+}
