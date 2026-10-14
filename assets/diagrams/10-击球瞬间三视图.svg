@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 692" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>击球瞬间三视图</title>
+<desc>正手高远球击球瞬间的侧视图、正视图、俯视图，明确拍、球、击球点的位置关系，底部为三视图共识。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">击球瞬间 · 三视图</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">标准动作示意（原理简化）· 正手高远球，吊球通用</text>
+<rect x="40" y="62" width="600" height="170" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">侧视图 · 拍与球的关系</text>
+<line x1="60" y1="224" x2="390" y2="224" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="217.5" cy="130.7" r="9" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M218.5,142.4 L224.8,181.4"/>
+<path d="M224.8,181.4 L213.5,200.2 L203.3,222 L193.2,222"/>
+<path d="M224.8,181.4 L235.4,204.8 L240,222 L245.5,222"/>
+<path d="M218.5,142.4 L226,154.1 L229.2,162.7"/>
+<path d="M218.5,142.4 L206.8,126.1 L196.4,115.9"/>
+<line x1="196.4" y1="115.9" x2="189.6" y2="107.3"/>
+<ellipse cx="186.2" cy="104.2" rx="4.5" ry="9" transform="rotate(-40 186.2 104.2)" stroke-width="2"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="218.5" cy="142.4" r="3"/><circle cx="226" cy="154.1" r="3"/><circle cx="229.2" cy="162.7" r="3"/><circle cx="206.8" cy="126.1" r="3"/><circle cx="196.4" cy="115.9" r="3"/><circle cx="224.8" cy="181.4" r="3"/><circle cx="213.5" cy="200.2" r="3"/><circle cx="235.4" cy="204.8" r="3"/><circle cx="203.3" cy="222" r="3"/><circle cx="240" cy="222" r="3"/>
+</g>
+<circle cx="180" cy="102" r="8" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<path d="M181,101 L170,90 L172,101 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="180" cy="102" r="3" fill="#D85A30"/>
+<line x1="218.5" y1="142.4" x2="240" y2="142.4" stroke="#888780" stroke-width="1" stroke-dasharray="3 2"/>
+<line x1="240" y1="142.4" x2="240" y2="104.2" stroke="#888780" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="120" y="100" font-size="11" font-weight="500" fill="#993C1D">击球点</text>
+<line x1="154" y1="98" x2="172" y2="101" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="245" y="112" font-size="11" fill="#993C1D">高于肩</text>
+<text x="250" y="132" font-size="11" fill="#5F5E5A">肘未锁死</text>
+<line x1="248" y1="130" x2="210" y2="127" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="400" y="96" font-size="11" font-weight="500" fill="#2C2C2A">本视图看点</text>
+<text x="400" y="114" font-size="11" fill="#5F5E5A">击球点＝拍头撞上球托底部处</text>
+<text x="400" y="132" font-size="11" fill="#5F5E5A">高度：肩之上；前后：身之前</text>
+<text x="400" y="150" font-size="11" fill="#5F5E5A">手臂近乎伸直，肘微屈不锁死</text>
+<text x="400" y="168" font-size="11" fill="#5F5E5A">拍面正对出球方向，向上偏前</text>
+<rect x="40" y="244" width="600" height="170" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="266" r="8" fill="#D85A30"/>
+<text x="60" y="266" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="74" y="270" font-size="12.5" font-weight="500" fill="#2C2C2A">正视图 · 击球点的左右高低</text>
+<line x1="60" y1="414" x2="390" y2="414" stroke="#D3D1C7" stroke-width="1"/>
+<line x1="215" y1="298" x2="215" y2="414" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="3 2"/>
+<line x1="185" y1="323" x2="330" y2="323" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="3 2"/>
+<circle cx="215" cy="306" r="9" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<line x1="185" y1="323" x2="245" y2="323"/>
+<line x1="215" y1="323" x2="215" y2="360"/>
+<line x1="200" y1="360" x2="230" y2="360"/>
+<path d="M215,360 L206,388 L202,412"/>
+<path d="M215,360 L224,388 L228,412"/>
+<path d="M185,323 L176,340 L172,354"/>
+<path d="M245,323 L260,305 L272,291"/>
+<line x1="272" y1="291" x2="281" y2="279"/>
+</g>
+<ellipse cx="284" cy="275" rx="4.5" ry="9" transform="rotate(25 284 275)" fill="none" stroke="#444441" stroke-width="2"/>
+<circle cx="292" cy="269" r="8" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<path d="M293,268 L282,257 L284,268 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="292" cy="269" r="3" fill="#D85A30"/>
+<line x1="298" y1="268" x2="332" y2="250" stroke="#D85A30" stroke-width="1.8" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<text x="250" y="258" font-size="11" font-weight="500" fill="#993C1D">击球点</text>
+<line x1="280" y1="260" x2="288" y2="266" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="334" y="319" font-size="11" fill="#888780">肩线</text>
+<text x="240" y="398" font-size="11" fill="#888780">中心线</text>
+<line x1="238" y1="395" x2="217" y2="395" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="336" y="252" font-size="11" fill="#993C1D">出球方向</text>
+<text x="400" y="278" font-size="11" font-weight="500" fill="#2C2C2A">本视图看点</text>
+<text x="400" y="296" font-size="11" fill="#5F5E5A">击球点在肩线之上</text>
+<text x="400" y="314" font-size="11" fill="#5F5E5A">在身体中心线右侧</text>
+<text x="400" y="332" font-size="11" fill="#5F5E5A">出球方向：右前上方</text>
+<text x="400" y="350" font-size="11" fill="#5F5E5A">非持拍手下压保平衡</text>
+<rect x="40" y="426" width="600" height="170" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="448" r="8" fill="#D85A30"/>
+<text x="60" y="448" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="452" font-size="12.5" font-weight="500" fill="#2C2C2A">俯视图 · 击球点的前后距离</text>
+<line x1="60" y1="464" x2="390" y2="464" stroke="#444441" stroke-width="3"/>
+<text x="348" y="460" font-size="11" fill="#888780" text-anchor="end">球网</text>
+<line x1="215" y1="472" x2="215" y2="556" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="3 2"/>
+<rect x="197" y="504" width="36" height="28" rx="8" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<circle cx="215" cy="510" r="9" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<line x1="185" y1="510" x2="245" y2="510" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<line x1="200" y1="532" x2="230" y2="532" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="205" cy="548" rx="9" ry="5" transform="rotate(-20 205 548)" fill="#FFFFFF" stroke="#444441" stroke-width="2.5"/>
+<ellipse cx="242" cy="536" rx="9" ry="5" transform="rotate(20 242 536)" fill="#FFFFFF" stroke="#444441" stroke-width="2.5"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" fill="none">
+<path d="M245,510 L263,497 L274,486"/>
+<line x1="274" y1="486" x2="282" y2="475"/>
+</g>
+<ellipse cx="285" cy="471" rx="4.5" ry="9" transform="rotate(65 285 471)" fill="none" stroke="#444441" stroke-width="2"/>
+<circle cx="293" cy="465" r="8" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<path d="M294,464 L283,453 L285,464 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="293" cy="465" r="3" fill="#D85A30"/>
+<path d="M245,478 A32,32 0 0 1 268,488" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="306" y="452" font-size="11" font-weight="500" fill="#993C1D">击球点</text>
+<line x1="304" y1="454" x2="297" y2="461" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="306" y="494" font-size="11" fill="#993C1D">右前方</text>
+<line x1="304" y1="490" x2="270" y2="489" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="120" y="556" font-size="11" fill="#5F5E5A">左脚朝网</text>
+<line x1="176" y1="552" x2="198" y2="549" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="258" y="540" font-size="11" fill="#5F5E5A">右脚在后</text>
+<line x1="256" y1="538" x2="250" y2="537" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="400" y="460" font-size="11" font-weight="500" fill="#2C2C2A">本视图看点</text>
+<text x="400" y="478" font-size="11" fill="#5F5E5A">击球点：身体右前上方</text>
+<text x="400" y="496" font-size="11" fill="#5F5E5A">距离：身前一臂加一拍</text>
+<text x="400" y="514" font-size="11" fill="#5F5E5A">左脚朝网、右脚在后蹬地</text>
+<rect x="40" y="608" width="600" height="64" rx="10" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="630" font-size="12.5" font-weight="500" fill="#2C2C2A">击球点位置</text>
+<rect x="130" y="616" width="140" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="140" y="634" font-size="11" fill="#993C1D">① 高于肩膀</text>
+<rect x="290" y="616" width="140" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="300" y="634" font-size="11" fill="#993C1D">② 身体右前上方</text>
+<rect x="450" y="616" width="140" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="460" y="634" font-size="11" fill="#993C1D">③ 拍面正击球托底</text>
+<text x="56" y="662" font-size="11" fill="#5F5E5A">肘微屈不锁死 · 非持拍手下压保平衡 · 出球走右前上方飞向对方底线</text>
+</svg>
