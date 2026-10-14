@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 468" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>吊球四步关节分解图</title>
+<desc>侧面视角展示吊球四个步骤：侧身架拍、倒拍引拍、包切击球、随挥回动，红点标注关节位置，底部为发力链条与自检标准。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="44" font-size="15" font-weight="500" fill="#2C2C2A">吊球 · 四步关节分解</text>
+<text x="40" y="62" font-size="12" fill="#5F5E5A">侧面视角 · 右手持拍 · 与高远球同一准备动作</text>
+<circle cx="436" cy="40" r="4" fill="#D85A30"/>
+<text x="446" y="44" font-size="12" fill="#5F5E5A">关节位置：肩肘腕髋膝踝</text>
+<rect x="40" y="76" width="145" height="296" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="98" r="9" fill="#D85A30"/>
+<text x="60" y="98" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="98" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">侧身架拍</text>
+<line x1="54" y1="235" x2="171" y2="235" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="112" cy="118" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M112,135 L112,181"/>
+<path d="M112,181 L99,207 L90,233 L76,233"/>
+<path d="M112,181 L124,209 L130,233 L138,233"/>
+<path d="M112,135 L99,118 L86,105"/>
+<path d="M112,135 L121,152 L114,169"/>
+<line x1="114" y1="169" x2="108" y2="150"/>
+<ellipse cx="106" cy="143" rx="5" ry="10" transform="rotate(-8 106 143)" stroke-width="2"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="112" cy="135" r="3.2"/><circle cx="99" cy="118" r="3.2"/><circle cx="86" cy="105" r="3.2"/><circle cx="121" cy="152" r="3.2"/><circle cx="114" cy="169" r="3.2"/><circle cx="112" cy="181" r="3.2"/><circle cx="99" cy="207" r="3.2"/><circle cx="124" cy="209" r="3.2"/><circle cx="90" cy="233" r="3.2"/><circle cx="130" cy="233" r="3.2"/>
+</g>
+<path d="M76,93 L87,82 L85,93 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="75" cy="94" r="3" fill="#D85A30"/>
+<text x="62" y="76" font-size="11" fill="#888780">来球</text>
+<text x="54" y="263" font-size="11" fill="#5F5E5A">侧身，左脚前右脚后</text>
+<text x="54" y="282" font-size="11" fill="#5F5E5A">非持拍手上举指球</text>
+<text x="54" y="301" font-size="11" fill="#5F5E5A">膝髋放松重心在后脚</text>
+<rect x="52" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="341" font-size="11" fill="#993C1D">自检：举手指向来球</text>
+<text x="62" y="355" font-size="11" fill="#993C1D">肩背自然拉开</text>
+<rect x="191" y="76" width="145" height="296" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="211" cy="98" r="9" fill="#D85A30"/>
+<text x="211" y="98" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="225" y="98" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">倒拍引拍</text>
+<line x1="205" y1="235" x2="322" y2="235" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="261" cy="118" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M261,135 L267,181"/>
+<path d="M267,181 L254,207 L245,233 L232,233"/>
+<path d="M267,181 L281,211 L285,233 L292,233"/>
+<path d="M261,135 L248,118 L235,106"/>
+<path d="M263,135 L278,114 L285,137"/>
+<line x1="285" y1="137" x2="296" y2="158"/>
+<ellipse cx="300" cy="166" rx="5" ry="10" transform="rotate(-28 300 166)" stroke-width="2"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="261" cy="135" r="3.2"/><circle cx="248" cy="118" r="3.2"/><circle cx="235" cy="106" r="3.2"/><circle cx="278" cy="114" r="3.2"/><circle cx="285" cy="137" r="3.2"/><circle cx="267" cy="181" r="3.2"/><circle cx="254" cy="207" r="3.2"/><circle cx="281" cy="211" r="3.2"/><circle cx="245" cy="233" r="3.2"/><circle cx="285" cy="233" r="3.2"/>
+</g>
+<path d="M226,95 L237,84 L235,95 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="225" cy="96" r="3" fill="#D85A30"/>
+<text x="213" y="78" font-size="11" fill="#888780">来球</text>
+<line x1="296" y1="106" x2="281" y2="112" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="298" y="104" font-size="11" font-weight="500" fill="#993C1D">顶肘</text>
+<text x="205" y="263" font-size="11" fill="#5F5E5A">拍向后倒，肘领先上顶</text>
+<text x="205" y="282" font-size="11" fill="#5F5E5A">拍头下沉，像拉开的弓</text>
+<text x="205" y="301" font-size="11" fill="#5F5E5A">重心压向后脚蓄力</text>
+<rect x="203" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="213" y="341" font-size="11" fill="#993C1D">自检：肘顶到最高点</text>
+<text x="213" y="355" font-size="11" fill="#993C1D">拍头向后下沉</text>
+<rect x="342" y="76" width="145" height="296" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="362" cy="98" r="9" fill="#D85A30"/>
+<text x="362" y="98" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="376" y="98" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">包切击球</text>
+<line x1="356" y1="235" x2="473" y2="235" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="410" cy="117" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M412,133 L418,181"/>
+<path d="M418,181 L403,205 L390,233 L377,233"/>
+<path d="M418,181 L431,211 L437,233 L444,233"/>
+<path d="M412,133 L400,114 L390,103"/>
+<line x1="390" y1="103" x2="382" y2="95"/>
+<ellipse cx="378" cy="91" rx="5" ry="10" transform="rotate(-55 378 91)" stroke-width="2"/>
+<path d="M410,133 L421,146 L425,156"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="412" cy="133" r="3.2"/><circle cx="421" cy="146" r="3.2"/><circle cx="425" cy="156" r="3.2"/><circle cx="400" cy="114" r="3.2"/><circle cx="390" cy="103" r="3.2"/><circle cx="418" cy="181" r="3.2"/><circle cx="403" cy="205" r="3.2"/><circle cx="431" cy="211" r="3.2"/><circle cx="390" cy="233" r="3.2"/><circle cx="437" cy="233" r="3.2"/>
+</g>
+<circle cx="372" cy="94" r="7" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<path d="M373,93 L362,82 L364,93 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="372" cy="94" r="3" fill="#D85A30"/>
+<text x="386" y="78" font-size="11" font-weight="500" fill="#993C1D">击球点</text>
+<path d="M368,104 Q362,112 366,120" fill="none" stroke="#888780" stroke-width="1.5" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<text x="356" y="263" font-size="11" fill="#5F5E5A">动作前半段同高球</text>
+<text x="356" y="282" font-size="11" fill="#5F5E5A">拍面切击球托侧后方</text>
+<text x="356" y="301" font-size="11" fill="#5F5E5A">击球点稍低、在身前</text>
+<rect x="354" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="364" y="341" font-size="11" fill="#993C1D">自检：前半段像高球</text>
+<text x="364" y="355" font-size="11" fill="#993C1D">包住球头，球贴网落</text>
+<rect x="493" y="76" width="145" height="296" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="513" cy="98" r="9" fill="#D85A30"/>
+<text x="513" y="98" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="527" y="98" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">随挥回动</text>
+<line x1="507" y1="235" x2="624" y2="235" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="565" cy="118" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M565,133 L567,181"/>
+<path d="M567,181 L555,207 L550,233 L537,233"/>
+<path d="M567,181 L579,209 L585,233 L592,233"/>
+<path d="M565,133 L551,147 L539,140"/>
+<line x1="539" y1="140" x2="530" y2="131"/>
+<ellipse cx="526" cy="127" rx="5" ry="10" transform="rotate(-48 526 127)" stroke-width="2"/>
+<path d="M567,133 L578,122 L587,116"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="565" cy="133" r="3.2"/><circle cx="578" cy="122" r="3.2"/><circle cx="587" cy="116" r="3.2"/><circle cx="551" cy="147" r="3.2"/><circle cx="539" cy="140" r="3.2"/><circle cx="567" cy="181" r="3.2"/><circle cx="555" cy="207" r="3.2"/><circle cx="579" cy="209" r="3.2"/><circle cx="550" cy="233" r="3.2"/><circle cx="585" cy="233" r="3.2"/>
+</g>
+<line x1="594" y1="224" x2="616" y2="224" stroke="#888780" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<text x="590" y="212" font-size="11" fill="#5F5E5A">回中心</text>
+<text x="507" y="263" font-size="11" fill="#5F5E5A">挥拍幅度比高球小</text>
+<text x="507" y="282" font-size="11" fill="#5F5E5A">明显减速，收得住</text>
+<text x="507" y="301" font-size="11" fill="#5F5E5A">先回中心再接下一拍</text>
+<rect x="505" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="515" y="341" font-size="11" fill="#993C1D">自检：随挥短而收得住</text>
+<text x="515" y="355" font-size="11" fill="#993C1D">拍不脱手，手指松</text>
+<rect x="40" y="384" width="600" height="64" rx="10" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="408" font-size="13" font-weight="500" fill="#2C2C2A" dominant-baseline="central">发力链条</text>
+<polygon points="120,394 171,394 180,405 171,416 120,416 129,405" fill="#D85A30"/>
+<text x="150" y="405" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">脚</text>
+<polygon points="185,394 236,394 245,405 236,416 185,416 194,405" fill="#D85A30"/>
+<text x="215" y="405" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">腰</text>
+<polygon points="250,394 301,394 310,405 301,416 250,416 259,405" fill="#D85A30"/>
+<text x="280" y="405" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">肩</text>
+<polygon points="315,394 366,394 375,405 366,416 315,416 324,405" fill="#D85A30"/>
+<text x="345" y="405" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">肘</text>
+<polygon points="380,394 431,394 440,405 431,416 380,416 389,405" fill="#D85A30"/>
+<text x="410" y="405" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">腕</text>
+<text x="120" y="438" font-size="11" fill="#5F5E5A">力量层层传递，吊球发力比高球轻</text>
+<rect x="452" y="392" width="176" height="48" rx="8" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="464" y="407" font-size="11" font-weight="500" fill="#993C1D">自检标准</text>
+<text x="464" y="422" font-size="11" fill="#712B13">球贴网下落至前发球线附近</text>
+<text x="464" y="436" font-size="11" fill="#712B13">动作前半段看不出和高球区别</text>
+</svg>
