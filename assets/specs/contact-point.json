@@ -1,0 +1,53 @@
+{
+  "title": "击球点位置：正确 vs 错误（正手高球）",
+  "width": 440,
+  "height": 540,
+  "frames": [
+    {
+      "name": "× 错误：击球点头后",
+      "skeleton": {
+        "hip": {"pos": [235, 340]},
+        "knee_b": {"parent": "hip", "len": 62, "ang": 246},
+        "ankle_b": {"parent": "knee_b", "len": 60, "ang": 260},
+        "knee_f": {"parent": "hip", "len": 62, "ang": 298},
+        "ankle_f": {"parent": "knee_f", "len": 60, "ang": 282},
+        "shoulder": {"parent": "hip", "len": 88, "ang": 115},
+        "head": {"parent": "shoulder", "len": 44, "ang": 106},
+        "elbow": {"parent": "shoulder", "len": 54, "ang": 130},
+        "wrist": {"parent": "elbow", "len": 50, "ang": 145},
+        "racket": {"parent": "wrist", "len": 86, "ang": 160},
+        "elbow_l": {"parent": "shoulder", "len": 52, "ang": 25},
+        "wrist_l": {"parent": "elbow_l", "len": 48, "ang": 15}
+      },
+      "marks": [
+        {"type": "circle", "at": "racket", "r": 28, "color": "red", "width": 5},
+        {"type": "text", "at": "racket", "dx": 34, "dy": 26, "text": "拍在头后 ×", "size": 22, "color": "red"},
+        {"type": "arc", "at": "hip", "arm1": "vertical", "arm2": "shoulder", "label": "后仰25°", "r": 56, "color": "red"},
+        {"type": "text", "x": 40, "y": 500, "text": "后果：借不上蹬转力 → 球又高又飘", "size": 19, "color": "red"}
+      ]
+    },
+    {
+      "name": "√ 正确：击球点前上方",
+      "skeleton": {
+        "hip": {"pos": [190, 340]},
+        "knee_b": {"parent": "hip", "len": 62, "ang": 250},
+        "ankle_b": {"parent": "knee_b", "len": 60, "ang": 264},
+        "knee_f": {"parent": "hip", "len": 62, "ang": 294},
+        "ankle_f": {"parent": "knee_f", "len": 60, "ang": 282},
+        "shoulder": {"parent": "hip", "len": 88, "ang": 100},
+        "head": {"parent": "shoulder", "len": 44, "ang": 104},
+        "elbow": {"parent": "shoulder", "len": 54, "ang": 72},
+        "wrist": {"parent": "elbow", "len": 50, "ang": 76},
+        "racket": {"parent": "wrist", "len": 86, "ang": 86},
+        "elbow_l": {"parent": "shoulder", "len": 40, "ang": 308},
+        "wrist_l": {"parent": "elbow_l", "len": 36, "ang": 22}
+      },
+      "marks": [
+        {"type": "circle", "at": "racket", "r": 28, "color": "green", "width": 5},
+        {"type": "text", "at": "racket", "dx": 34, "dy": -16, "text": "拍在前上方 √", "size": 22, "color": "green"},
+        {"type": "arc", "at": "hip", "arm1": "vertical", "arm2": "shoulder", "label": "≈10°", "r": 56, "color": "green"},
+        {"type": "text", "x": 40, "y": 500, "text": "效果：全身力量顺传 → 又高又远", "size": 19, "color": "green"}
+      ]
+    }
+  ]
+}
