@@ -1,0 +1,97 @@
+{
+  "title": "正手高远球 发力链条四步",
+  "width": 440,
+  "height": 540,
+  "frames": [
+    {
+      "name": "① 准备 / 侧身架拍",
+      "skeleton": {
+        "hip": {"pos": [190, 340]},
+        "knee_b": {"parent": "hip", "len": 62, "ang": 252},
+        "ankle_b": {"parent": "knee_b", "len": 60, "ang": 268},
+        "knee_f": {"parent": "hip", "len": 62, "ang": 292},
+        "ankle_f": {"parent": "knee_f", "len": 60, "ang": 278},
+        "shoulder": {"parent": "hip", "len": 88, "ang": 95},
+        "head": {"parent": "shoulder", "len": 44, "ang": 100},
+        "elbow": {"parent": "shoulder", "len": 54, "ang": 152},
+        "wrist": {"parent": "elbow", "len": 50, "ang": 208},
+        "racket": {"parent": "wrist", "len": 86, "ang": 243},
+        "elbow_l": {"parent": "shoulder", "len": 52, "ang": 12},
+        "wrist_l": {"parent": "elbow_l", "len": 48, "ang": 6}
+      },
+      "marks": [
+        {"type": "text", "at": "head", "dx": 30, "dy": -18, "text": "侧身对网", "size": 21, "color": "blue"},
+        {"type": "text", "at": "elbow", "dx": -95, "dy": -20, "text": "抬肘引拍", "size": 21, "color": "orange"},
+        {"type": "text", "at": "wrist_l", "dx": 6, "dy": 14, "text": "指向来球", "size": 19, "color": "green"}
+      ]
+    },
+    {
+      "name": "② 倒拍（背弓蓄力）",
+      "skeleton": {
+        "hip": {"pos": [190, 340]},
+        "knee_b": {"parent": "hip", "len": 62, "ang": 248},
+        "ankle_b": {"parent": "knee_b", "len": 60, "ang": 262},
+        "knee_f": {"parent": "hip", "len": 62, "ang": 296},
+        "ankle_f": {"parent": "knee_f", "len": 60, "ang": 280},
+        "shoulder": {"parent": "hip", "len": 88, "ang": 112},
+        "head": {"parent": "shoulder", "len": 44, "ang": 108},
+        "elbow": {"parent": "shoulder", "len": 54, "ang": 138},
+        "wrist": {"parent": "elbow", "len": 50, "ang": 205},
+        "racket": {"parent": "wrist", "len": 86, "ang": 248},
+        "elbow_l": {"parent": "shoulder", "len": 52, "ang": 20},
+        "wrist_l": {"parent": "elbow_l", "len": 48, "ang": 14}
+      },
+      "marks": [
+        {"type": "arc", "at": "hip", "arm1": "vertical", "arm2": "shoulder", "label": "≈22°后仰", "r": 52, "color": "amber"},
+        {"type": "text", "at": "shoulder", "dx": -108, "dy": -26, "text": "躯干后仰成弓", "size": 21, "color": "amber"},
+        {"type": "text", "at": "ankle_b", "dx": 10, "dy": -34, "text": "蹬地转髋", "size": 21, "color": "green"},
+        {"type": "circle", "at": "knee_f", "r": 16, "color": "green", "width": 3}
+      ]
+    },
+    {
+      "name": "③ 击球（最高点前上方）",
+      "skeleton": {
+        "hip": {"pos": [190, 340]},
+        "knee_b": {"parent": "hip", "len": 62, "ang": 250},
+        "ankle_b": {"parent": "knee_b", "len": 60, "ang": 264},
+        "knee_f": {"parent": "hip", "len": 62, "ang": 294},
+        "ankle_f": {"parent": "knee_f", "len": 60, "ang": 282},
+        "shoulder": {"parent": "hip", "len": 88, "ang": 100},
+        "head": {"parent": "shoulder", "len": 44, "ang": 104},
+        "elbow": {"parent": "shoulder", "len": 54, "ang": 72},
+        "wrist": {"parent": "elbow", "len": 50, "ang": 76},
+        "racket": {"parent": "wrist", "len": 86, "ang": 86},
+        "elbow_l": {"parent": "shoulder", "len": 40, "ang": 308},
+        "wrist_l": {"parent": "elbow_l", "len": 36, "ang": 22}
+      },
+      "marks": [
+        {"type": "circle", "at": "racket", "r": 30, "color": "green", "width": 5},
+        {"type": "text", "at": "racket", "dx": 36, "dy": -14, "text": "击球点在前上方 ✓", "size": 21, "color": "green"},
+        {"type": "arc", "at": "elbow", "arm1": "shoulder", "arm2": "wrist", "label": "≈170°", "r": 42, "color": "green"},
+        {"type": "text", "at": "wrist_l", "dx": 34, "dy": 10, "text": "收向左胸", "size": 19, "color": "green"}
+      ]
+    },
+    {
+      "name": "④ 随挥收拍",
+      "skeleton": {
+        "hip": {"pos": [190, 340]},
+        "knee_b": {"parent": "hip", "len": 62, "ang": 262},
+        "ankle_b": {"parent": "knee_b", "len": 60, "ang": 272},
+        "knee_f": {"parent": "hip", "len": 62, "ang": 300},
+        "ankle_f": {"parent": "knee_f", "len": 60, "ang": 288},
+        "shoulder": {"parent": "hip", "len": 88, "ang": 92},
+        "head": {"parent": "shoulder", "len": 44, "ang": 100},
+        "elbow": {"parent": "shoulder", "len": 54, "ang": 350},
+        "wrist": {"parent": "elbow", "len": 50, "ang": 320},
+        "racket": {"parent": "wrist", "len": 86, "ang": 300},
+        "elbow_l": {"parent": "shoulder", "len": 52, "ang": 262},
+        "wrist_l": {"parent": "elbow_l", "len": 48, "ang": 276}
+      },
+      "marks": [
+        {"type": "text", "at": "racket", "dx": 8, "dy": 24, "text": "自然收于身前左侧", "size": 19, "color": "blue"},
+        {"type": "text", "at": "ankle_f", "dx": -14, "dy": -38, "text": "重心前移回位", "size": 19, "color": "green"},
+        {"type": "circle", "at": "knee_f", "r": 16, "color": "green", "width": 3}
+      ]
+    }
+  ]
+}
