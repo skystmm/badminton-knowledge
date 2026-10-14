@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 626" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>劈吊手部细节图解</title>
+<desc>三张特写：劈吊握拍与发力、斜切特写（前臂外旋、斜拍面切球托右后侧、触球前微制动）、直线与斜线的拍面对比。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">劈吊 · 手部细节图解</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">标准动作示意（原理简化）· 握拍同正手，手法在'斜切'</text>
+<rect x="40" y="62" width="600" height="160" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">握拍与发力</text>
+<g stroke="#B4B2A9" stroke-width="1.5">
+<line x1="140" y1="106" x2="140" y2="100" stroke="#D85A30" stroke-width="2.5"/>
+<line x1="164" y1="116" x2="168.3" y2="111.7"/>
+<line x1="174" y1="140" x2="180" y2="140"/>
+<line x1="164" y1="164" x2="168.3" y2="168.3"/>
+<line x1="140" y1="174" x2="140" y2="180"/>
+<line x1="116" y1="164" x2="111.7" y2="168.3"/>
+<line x1="106" y1="140" x2="100" y2="140"/>
+<line x1="116" y1="116" x2="111.7" y2="111.7"/>
+</g>
+<circle cx="140" cy="140" r="34" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g fill="#FFFFFF" stroke="#888780" stroke-width="1.5">
+<rect x="97.3" y="103.8" width="26" height="13" rx="6.5" transform="rotate(-45 110.3 110.3)"/>
+<rect x="86.3" y="144.4" width="26" height="13" rx="6.5" transform="rotate(-105 99.3 150.9)"/>
+<rect x="106" y="169.9" width="26" height="13" rx="6.5" transform="rotate(-150 119 176.4)"/>
+<rect x="148" y="169.9" width="26" height="13" rx="6.5" transform="rotate(150 161 176.4)"/>
+<rect x="167.7" y="144.4" width="26" height="13" rx="6.5" transform="rotate(105 180.7 150.9)"/>
+</g>
+<text x="140" y="86" font-size="11" font-weight="500" fill="#993C1D" text-anchor="middle">虎口对准宽面</text>
+<line x1="140" y1="90" x2="140" y2="99" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="56" y="118" font-size="11" fill="#5F5E5A">拇指贴宽面</text>
+<line x1="104" y1="116" x2="112" y2="113" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="56" y="168" font-size="11" fill="#5F5E5A">食指下压</text>
+<line x1="98" y1="166" x2="97" y2="155" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="260" y="96" font-size="11" font-weight="500" fill="#2C2C2A">本图看点</text>
+<text x="260" y="114" font-size="11" fill="#5F5E5A">握拍与正手高远球完全相同</text>
+<text x="260" y="132" font-size="11" fill="#5F5E5A">松-紧-松：触球瞬间扣紧</text>
+<text x="260" y="150" font-size="11" fill="#5F5E5A">力量集中在指尖和手腕</text>
+<text x="260" y="168" font-size="11" fill="#5F5E5A">约用杀球三成力，靠切的角度</text>
+<rect x="52" y="192" width="270" height="26" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="209" font-size="11" fill="#993C1D">自检：拍柄'放'进去，能轻松抽出</text>
+<rect x="40" y="234" width="600" height="180" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="256" r="8" fill="#D85A30"/>
+<text x="60" y="256" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="74" y="260" font-size="12.5" font-weight="500" fill="#2C2C2A">斜切特写 · 拍面与球托</text>
+<line x1="300" y1="330" x2="205" y2="308" stroke="#444441" stroke-width="8" stroke-linecap="round"/>
+<circle cx="300" cy="330" r="4" fill="#D85A30"/>
+<circle cx="205" cy="308" r="4" fill="#D85A30"/>
+<rect x="185" y="298" width="26" height="20" rx="8" fill="#FDFCF9" stroke="#444441" stroke-width="2.5"/>
+<line x1="192" y1="300" x2="160" y2="282" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="153" cy="276" rx="5" ry="10" transform="rotate(-62 153 276)" fill="none" stroke="#444441" stroke-width="2"/>
+<circle cx="141" cy="270" r="8" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<path d="M142,269 L131,258 L133,269 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="141" cy="270" r="3" fill="#D85A30"/>
+<circle cx="146" cy="274" r="2.5" fill="#D85A30"/>
+<path d="M240,292 Q230,306 242,316" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<path d="M208,312 Q202,322 194,326" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<line x1="244" y1="313" x2="256" y2="325" stroke="#888780" stroke-width="1.5"/>
+<line x1="256" y1="313" x2="244" y2="325" stroke="#888780" stroke-width="1.5"/>
+<text x="108" y="252" font-size="11" font-weight="500" fill="#993C1D">击球点</text>
+<line x1="128" y1="256" x2="139" y2="264" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="240" y="262" font-size="11" font-weight="500" fill="#993C1D">切球托右后侧</text>
+<line x1="238" y1="266" x2="150" y2="273" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="262" y="292" font-size="11" fill="#993C1D">前臂外旋</text>
+<line x1="260" y1="294" x2="243" y2="302" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="200" y="344" font-size="11" fill="#5F5E5A">手腕下扣</text>
+<line x1="198" y1="340" x2="195" y2="330" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="268" y="352" font-size="11" fill="#888780">触球前微制动</text>
+<line x1="266" y1="348" x2="256" y2="326" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="400" y="280" font-size="11" font-weight="500" fill="#2C2C2A">本图看点</text>
+<text x="400" y="298" font-size="11" fill="#5F5E5A">拍面斜切球托右后侧</text>
+<text x="400" y="316" font-size="11" fill="#5F5E5A">前臂外旋带动手腕下扣</text>
+<text x="400" y="334" font-size="11" fill="#5F5E5A">触球前略微制动，拍速不降</text>
+<text x="400" y="352" font-size="11" fill="#5F5E5A">切击夹角决定斜线或直线</text>
+<rect x="400" y="368" width="228" height="26" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="410" y="385" font-size="11" fill="#993C1D">自检：击球声闷而短促</text>
+<rect x="40" y="426" width="600" height="180" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="448" r="8" fill="#D85A30"/>
+<text x="60" y="448" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="452" font-size="12.5" font-weight="500" fill="#2C2C2A">直线与斜线</text>
+<line x1="320" y1="450" x2="320" y2="585" stroke="#E7E2D9" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="185" y1="520" x2="165" y2="505" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="159" cy="500" rx="5" ry="10" transform="rotate(-62 159 500)" fill="none" stroke="#444441" stroke-width="2"/>
+<circle cx="145" cy="494" r="7" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<path d="M146,493 L135,482 L137,493 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="145" cy="494" r="3" fill="#D85A30"/>
+<circle cx="150" cy="498" r="2.5" fill="#D85A30"/>
+<path d="M141,498 Q110,510 84,518" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<text x="130" y="542" font-size="11" font-weight="500" fill="#993C1D" text-anchor="middle">劈吊斜线</text>
+<text x="130" y="558" font-size="11" fill="#5F5E5A" text-anchor="middle">切球托右侧向左下发力</text>
+<line x1="505" y1="520" x2="490" y2="500" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="486" cy="494" rx="5" ry="10" transform="rotate(-30 486 494)" fill="none" stroke="#444441" stroke-width="2"/>
+<circle cx="470" cy="490" r="7" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<path d="M471,489 L460,478 L462,489 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="470" cy="490" r="3" fill="#D85A30"/>
+<circle cx="473" cy="494" r="2.5" fill="#D85A30"/>
+<path d="M466,494 Q430,504 400,510" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<text x="460" y="542" font-size="11" font-weight="500" fill="#2C2C2A" text-anchor="middle">劈吊直线</text>
+<text x="460" y="558" font-size="11" fill="#5F5E5A" text-anchor="middle">拍面正对前方下切</text>
+<rect x="52" y="568" width="576" height="26" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="585" font-size="11" fill="#993C1D">自检：斜线劈到两腰，直线劈到中场，都不出界</text>
+</svg>
