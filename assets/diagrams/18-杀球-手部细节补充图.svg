@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 596" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>杀球手部动作细节补充图解</title>
+<desc>四张对照：苍蝇拍下压与内旋鞭打对比、正击与切球打疵对比、引拍死握的后果、拍头速度来源构成。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">杀球 · 手部细节补充 · 错误对照</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">标准动作示意（原理简化）· 对照自己动作时以实测为准</text>
+<rect x="40" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">苍蝇拍下压 vs 内旋鞭打</text>
+<line x1="187" y1="100" x2="187" y2="232" stroke="#E7E2D9" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="116" cy="106" r="9" fill="#993C1D"/>
+<text x="116" y="110" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="middle">✗</text>
+<line x1="142" y1="128" x2="106" y2="148" stroke="#444441" stroke-width="6" stroke-linecap="round"/>
+<rect x="98" y="142" width="18" height="14" rx="6" fill="#F5C4B3" stroke="#993C1D" stroke-width="2"/>
+<line x1="103" y1="152" x2="90" y2="196" stroke="#444441" stroke-width="2.5"/>
+<ellipse cx="88" cy="204" rx="4.5" ry="9" transform="rotate(8 88 204)" fill="none" stroke="#444441" stroke-width="2"/>
+<path d="M86,216 Q84,226 85,232" fill="none" stroke="#888780" stroke-width="1.5" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<text x="116" y="232" font-size="11" fill="#993C1D" text-anchor="middle">整臂下压 · 球慢还飘</text>
+<circle cx="258" cy="106" r="9" fill="#0F6E56"/>
+<text x="258" y="110" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="middle">✓</text>
+<line x1="284" y1="128" x2="248" y2="148" stroke="#444441" stroke-width="6" stroke-linecap="round"/>
+<rect x="240" y="142" width="18" height="14" rx="6" fill="#FDFCF9" stroke="#444441" stroke-width="2"/>
+<line x1="245" y1="152" x2="222" y2="190" stroke="#444441" stroke-width="2.5"/>
+<ellipse cx="220" cy="198" rx="4.5" ry="9" transform="rotate(-38 220 198)" fill="none" stroke="#444441" stroke-width="2"/>
+<path d="M234,158 Q224,168 226,182" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<path d="M218,208 Q212,222 214,230" fill="none" stroke="#888780" stroke-width="1.5" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<text x="258" y="232" font-size="11" fill="#0F6E56" text-anchor="middle">内旋鞭打 · 球快下扎</text>
+<text x="54" y="252" font-size="11" fill="#5F5E5A">苍蝇拍：整条胳膊当棍子抡，只有蛮力</text>
+<text x="54" y="268" font-size="11" fill="#5F5E5A">内旋：前臂像鞭子甩出去，看着省力球更快</text>
+<rect x="52" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="296" font-size="11" fill="#993C1D">自检：杀完肩不酸，球速反而更快</text>
+<rect x="346" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="84" r="8" fill="#D85A30"/>
+<text x="366" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="380" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">正击 vs 切球打疵</text>
+<line x1="493" y1="100" x2="493" y2="232" stroke="#E7E2D9" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="422" cy="106" r="9" fill="#0F6E56"/>
+<text x="422" y="110" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="middle">✓</text>
+<ellipse cx="422" cy="160" rx="30" ry="38" fill="#FDFCF9" stroke="#444441" stroke-width="3"/>
+<path d="M423,159 L412,148 L414,160 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="422" cy="160" r="3.5" fill="#D85A30"/>
+<circle cx="422" cy="160" r="9" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="422" y="222" font-size="11" fill="#0F6E56" text-anchor="middle">正击球托后部 · 力全传上</text>
+<circle cx="566" cy="106" r="9" fill="#993C1D"/>
+<text x="566" y="110" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="middle">✗</text>
+<ellipse cx="566" cy="160" rx="30" ry="38" fill="#FDFCF9" stroke="#444441" stroke-width="3"/>
+<path d="M552,142 L541,131 L543,143 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="551" cy="143" r="3.5" fill="#D85A30"/>
+<path d="M549,151 Q540,164 544,180" fill="none" stroke="#888780" stroke-width="1.5" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<text x="566" y="222" font-size="11" fill="#993C1D" text-anchor="middle">切到侧面 · 打疵乱飞</text>
+<text x="358" y="252" font-size="11" fill="#5F5E5A">切球：球速掉一半，方向随缘，还容易下网</text>
+<text x="358" y="268" font-size="11" fill="#5F5E5A">原因多是击球点太后，够着打必然切球</text>
+<rect x="358" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="296" font-size="11" fill="#993C1D">自检：听声音——脆响为正，闷擦为切</text>
+<rect x="40" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="348" r="8" fill="#D85A30"/>
+<text x="60" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">引拍死握 · 锁死内旋</text>
+<circle cx="110" cy="412" r="16" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g fill="#F0997B" stroke="#993C1D" stroke-width="1.5">
+<circle cx="110" cy="394" r="5.5"/><circle cx="119" cy="396.4" r="5.5"/><circle cx="119" cy="427.6" r="5.5"/><circle cx="110" cy="430" r="5.5"/><circle cx="101" cy="427.6" r="5.5"/>
+</g>
+<line x1="110" y1="396" x2="110" y2="428" stroke="#993C1D" stroke-width="2"/>
+<line x1="96" y1="406" x2="124" y2="418" stroke="#993C1D" stroke-width="2"/>
+<line x1="124" y1="406" x2="96" y2="418" stroke="#993C1D" stroke-width="2"/>
+<text x="110" y="452" font-size="11" font-weight="500" fill="#993C1D" text-anchor="middle">全程死握</text>
+<line x1="142" y1="412" x2="172" y2="412" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<path d="M196,392 Q186,412 196,432" fill="none" stroke="#B4B2A9" stroke-width="2" stroke-dasharray="4 3"/>
+<line x1="204" y1="402" x2="216" y2="422" stroke="#993C1D" stroke-width="2.5"/>
+<line x1="216" y1="402" x2="204" y2="422" stroke="#993C1D" stroke-width="2.5"/>
+<text x="228" y="396" font-size="11" fill="#993C1D">内旋锁死</text>
+<text x="228" y="418" font-size="11" fill="#993C1D">闪腕没有</text>
+<text x="228" y="440" font-size="11" fill="#993C1D">拍速减半</text>
+<text x="54" y="516" font-size="11" fill="#5F5E5A">手一紧，前臂就旋不动，鞭子变棍子</text>
+<text x="54" y="532" font-size="11" fill="#5F5E5A">越想「用力杀」越要提醒自己先放松</text>
+<rect x="52" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="560" font-size="11" fill="#993C1D">自检：挥拍全程肩膀手臂是松的</text>
+<rect x="346" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="348" r="8" fill="#D85A30"/>
+<text x="366" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="380" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">拍头速度从哪来</text>
+<rect x="366" y="386" width="200" height="22" rx="5" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
+<rect x="366" y="386" width="106" height="22" rx="5" fill="#D85A30"/>
+<text x="372" y="401" font-size="11" font-weight="500" fill="#FFFFFF">前臂内旋+肩旋转</text>
+<text x="478" y="401" font-size="11" font-weight="500" fill="#993C1D">≈50%</text>
+<rect x="366" y="420" width="200" height="22" rx="5" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
+<rect x="366" y="420" width="64" height="22" rx="5" fill="#E8875B"/>
+<text x="372" y="435" font-size="11" font-weight="500" fill="#FFFFFF">蹬地转体</text>
+<rect x="366" y="454" width="200" height="22" rx="5" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
+<rect x="366" y="454" width="40" height="22" rx="5" fill="#F0A98A"/>
+<text x="372" y="469" font-size="11" font-weight="500" fill="#FFFFFF">闪腕</text>
+<text x="416" y="469" font-size="11" fill="#5F5E5A">只占最后一环</text>
+<text x="358" y="516" font-size="11" fill="#5F5E5A">杀球威力 ≈ 击球瞬间的拍速，不是绝对力量</text>
+<text x="358" y="532" font-size="11" fill="#5F5E5A">内旋+肩旋转贡献约一半拍头速度（生物力学研究）</text>
+<rect x="358" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="560" font-size="11" fill="#993C1D">自检：先练对内旋，再谈加力量</text>
+</svg>
