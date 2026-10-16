@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 596" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>杀球手臂内旋细节图解</title>
+<desc>四张特写：外旋预拉伸到内旋爆发三态序列、肘的领先与前送、闪腕的时机、各环节速度叠加曲线。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">杀球 · 手臂内旋细节图解</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">标准动作示意（原理简化）· 约一半拍头速度来自前臂内旋+肩旋转</text>
+<rect x="40" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">内旋三态序列</text>
+<g stroke="#444441" stroke-linecap="round" fill="none">
+<line x1="98" y1="180" x2="84" y2="140" stroke-width="6"/>
+<ellipse cx="80" cy="128" rx="4.5" ry="9" transform="rotate(18 80 128)" stroke-width="2"/>
+<line x1="186" y1="166" x2="172" y2="126" stroke-width="6"/>
+<ellipse cx="168" cy="114" rx="4.5" ry="9" transform="rotate(-4 168 114)" stroke-width="2"/>
+<line x1="274" y1="172" x2="252" y2="138" stroke-width="6"/>
+<ellipse cx="247" cy="127" rx="4.5" ry="9" transform="rotate(-38 247 127)" stroke-width="2"/>
+</g>
+<path d="M88,136 Q76,148 82,162" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<path d="M176,122 Q164,134 170,148" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<line x1="114" y1="150" x2="152" y2="150" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="202" y1="150" x2="240" y2="150" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="90" y="200" font-size="11" font-weight="500" fill="#2C2C2A" text-anchor="middle">外旋预拉</text>
+<text x="178" y="200" font-size="11" font-weight="500" fill="#993C1D" text-anchor="middle">内旋爆发</text>
+<text x="264" y="200" font-size="11" font-weight="500" fill="#2C2C2A" text-anchor="middle">制动闪腕</text>
+<text x="54" y="252" font-size="11" fill="#5F5E5A">倒拍时前臂先外旋（拍面向侧后方倒）</text>
+<text x="54" y="268" font-size="11" fill="#5F5E5A">像压紧的弹簧，触球前一刻反向弹回</text>
+<rect x="52" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="296" font-size="11" fill="#993C1D">自检：慢挥时拍面有「先倒后甩」</text>
+<rect x="346" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="84" r="8" fill="#D85A30"/>
+<text x="366" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="380" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">肘的领先与前送</text>
+<line x1="420" y1="210" x2="470" y2="150" stroke="#B4B2A9" stroke-width="6" stroke-linecap="round" stroke-dasharray="6 5"/>
+<circle cx="470" cy="150" r="5" fill="#B4B2A9"/>
+<line x1="470" y1="150" x2="450" y2="112" stroke="#B4B2A9" stroke-width="4" stroke-linecap="round" stroke-dasharray="5 4"/>
+<ellipse cx="446" cy="102" rx="4.5" ry="9" transform="rotate(-16 446 102)" fill="none" stroke="#B4B2A9" stroke-width="2" stroke-dasharray="4 3"/>
+<line x1="470" y1="210" x2="530" y2="140" stroke="#444441" stroke-width="6" stroke-linecap="round"/>
+<circle cx="530" cy="140" r="5" fill="#D85A30"/>
+<line x1="530" y1="140" x2="516" y2="98" stroke="#444441" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="513" cy="88" rx="4.5" ry="9" transform="rotate(-10 513 88)" fill="none" stroke="#444441" stroke-width="2"/>
+<path d="M478,132 Q502,118 524,124" fill="none" stroke="#D85A30" stroke-width="1.8" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<text x="474" y="112" font-size="11" fill="#993C1D">肘先走</text>
+<text x="560" y="180" font-size="11" fill="#5F5E5A">虚线：引拍</text>
+<text x="560" y="198" font-size="11" fill="#5F5E5A">实线：挥拍</text>
+<text x="358" y="252" font-size="11" fill="#5F5E5A">肘部先向前上方顶，前臂和拍被「拖」在后面</text>
+<text x="358" y="268" font-size="11" fill="#5F5E5A">拍头下沉越深，最后甩出来的速度越快</text>
+<rect x="358" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="296" font-size="11" fill="#993C1D">自检：挥拍时肘先于拍到最高点</text>
+<rect x="40" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="348" r="8" fill="#D85A30"/>
+<text x="60" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">闪腕的时机</text>
+<line x1="60" y1="440" x2="320" y2="440" stroke="#D3D1C7" stroke-width="1"/>
+<g font-size="11" fill="#5F5E5A">
+<rect x="66" y="418" width="70" height="20" rx="6" fill="#F1EFE8"/>
+<text x="101" y="432" text-anchor="middle">引拍 · 松</text>
+<rect x="142" y="418" width="70" height="20" rx="6" fill="#F1EFE8"/>
+<text x="177" y="432" text-anchor="middle">挥拍 · 松</text>
+<rect x="218" y="412" width="34" height="32" rx="6" fill="#D85A30"/>
+<text x="235" y="432" text-anchor="middle" fill="#FFFFFF" font-weight="500">紧</text>
+<rect x="258" y="418" width="56" height="20" rx="6" fill="#F1EFE8"/>
+<text x="286" y="432" text-anchor="middle">随挥 · 松</text>
+</g>
+<line x1="235" y1="446" x2="235" y2="462" stroke="#993C1D" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="235" y="478" font-size="11" fill="#993C1D" text-anchor="middle">触球 0.01 秒：闪腕+握紧</text>
+<text x="54" y="516" font-size="11" fill="#5F5E5A">闪腕不是全程甩腕，只在触球瞬间「抖」一下</text>
+<text x="54" y="532" font-size="11" fill="#5F5E5A">全程甩腕 = 力散 + 容易伤</text>
+<rect x="52" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="560" font-size="11" fill="#993C1D">自检：挥拍全程手腕松，只听触球一声脆</text>
+<rect x="346" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="348" r="8" fill="#D85A30"/>
+<text x="366" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="380" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">速度叠加 · 节节加速</text>
+<line x1="366" y1="486" x2="620" y2="486" stroke="#D3D1C7" stroke-width="1"/>
+<line x1="366" y1="486" x2="366" y2="380" stroke="#D3D1C7" stroke-width="1"/>
+<polyline points="366,478 400,470 440,458 470,444 500,424 530,398 560,382" fill="none" stroke="#D85A30" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="400" cy="470" r="3.5" fill="#D85A30"/>
+<circle cx="470" cy="444" r="3.5" fill="#D85A30"/>
+<circle cx="530" cy="398" r="3.5" fill="#D85A30"/>
+<circle cx="560" cy="382" r="4.5" fill="#993C1D"/>
+<text x="394" y="462" font-size="11" fill="#5F5E5A">髋</text>
+<text x="464" y="436" font-size="11" fill="#5F5E5A">肩</text>
+<text x="524" y="390" font-size="11" fill="#5F5E5A">肘</text>
+<text x="566" y="378" font-size="11" font-weight="500" fill="#993C1D">腕指 · 拍速峰值</text>
+<text x="358" y="516" font-size="11" fill="#5F5E5A">每一节都比前一节快，拍头速度是叠加出来的</text>
+<text x="358" y="532" font-size="11" fill="#5F5E5A">某一节抢拍（先动），后面的节就接不上力</text>
+<rect x="358" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="560" font-size="11" fill="#993C1D">自检：先练顺序，再练每节的速度</text>
+</svg>
