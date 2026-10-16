@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 596" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>启动步分解图解</title>
+<desc>四张特写：启动步的时机（对方触球瞬间）、动作规范（小跳分腿前脚掌）、常见错误对照、每球 0.2-0.3 秒的启动收益。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">启动步（分腿垫步）· 分解图解</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">步法的灵魂 · 每一拍都要做，时机比动作更重要</text>
+<rect x="40" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">时机 · 对方触球瞬间</text>
+<line x1="66" y1="170" x2="316" y2="170" stroke="#D3D1C7" stroke-width="1.5"/>
+<circle cx="100" cy="170" r="4" fill="#888780"/>
+<text x="100" y="192" font-size="11" fill="#5F5E5A" text-anchor="middle">对方引拍</text>
+<text x="100" y="150" font-size="11" fill="#5F5E5A" text-anchor="middle">站稳观察</text>
+<circle cx="190" cy="170" r="6" fill="#D85A30"/>
+<text x="190" y="192" font-size="11" font-weight="500" fill="#993C1D" text-anchor="middle">对方触球</text>
+<text x="190" y="150" font-size="11" font-weight="500" fill="#993C1D" text-anchor="middle">小跳分腿</text>
+<line x1="190" y1="156" x2="190" y2="164" stroke="#D85A30" stroke-width="1.5"/>
+<circle cx="280" cy="170" r="4" fill="#888780"/>
+<text x="280" y="192" font-size="11" fill="#5F5E5A" text-anchor="middle">球飞过来</text>
+<text x="280" y="150" font-size="11" fill="#5F5E5A" text-anchor="middle">蹬地启动</text>
+<text x="54" y="252" font-size="11" fill="#5F5E5A">起跳在触球前一刻，落地时球刚出拍</text>
+<text x="54" y="268" font-size="11" fill="#5F5E5A">早跳 = 落地后干等；晚跳 = 球到了才动</text>
+<rect x="52" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="296" font-size="11" fill="#993C1D">自检：录像看，球出拍时双脚正落地</text>
+<rect x="346" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="84" r="8" fill="#D85A30"/>
+<text x="366" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="380" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">动作 · 小跳分腿</text>
+<line x1="370" y1="216" x2="616" y2="216" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="452" cy="116" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M452,133 L452,172"/>
+<path d="M452,172 L434,196 L426,212 L414,212"/>
+<path d="M452,172 L470,196 L478,212 L490,212"/>
+<path d="M452,133 L442,150 L438,164"/>
+<path d="M452,133 L462,150 L466,164"/>
+</g>
+<line x1="426" y1="212" x2="426" y2="216" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="2 2"/>
+<line x1="478" y1="212" x2="478" y2="216" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="2 2"/>
+<circle cx="556" cy="180" r="26" fill="none" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="3 2"/>
+<path d="M548,194 L550,178 L546,182 M550,178 L554,182" stroke="#D85A30" stroke-width="2" fill="none"/>
+<path d="M546,196 L558,196 M547,191 L557,191" stroke="#D85A30" stroke-width="1.5"/>
+<text x="556" y="156" font-size="10" fill="#993C1D" text-anchor="middle">前脚掌弹簧</text>
+<line x1="534" y1="192" x2="492" y2="206" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="358" y="252" font-size="11" fill="#5F5E5A">屈膝小跳几厘米，脚尖轻柔落地无声</text>
+<text x="358" y="268" font-size="11" fill="#5F5E5A">重心在前脚掌，随时能向任何方向蹬出</text>
+<rect x="358" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="296" font-size="11" fill="#993C1D">自检：落地听不到「咚」的声音</text>
+<rect x="40" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="348" r="8" fill="#D85A30"/>
+<text x="60" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">三个常见错误</text>
+<circle cx="72" cy="398" r="9" fill="#993C1D"/>
+<text x="72" y="402" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="middle">✗</text>
+<text x="90" y="394" font-size="11.5" font-weight="500" fill="#993C1D">跳得太高</text>
+<text x="90" y="412" font-size="11" fill="#5F5E5A">落地太晚，反而更慢</text>
+<circle cx="72" cy="452" r="9" fill="#993C1D"/>
+<text x="72" y="456" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="middle">✗</text>
+<text x="90" y="448" font-size="11.5" font-weight="500" fill="#993C1D">腿伸直落地</text>
+<text x="90" y="466" font-size="11" fill="#5F5E5A">失去弹性，蹬不出去</text>
+<circle cx="72" cy="506" r="9" fill="#993C1D"/>
+<text x="72" y="510" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="middle">✗</text>
+<text x="90" y="502" font-size="11.5" font-weight="500" fill="#993C1D">球出来才跳</text>
+<text x="90" y="520" font-size="11" fill="#5F5E5A">时机全错，等于没做</text>
+<circle cx="216" cy="452" r="9" fill="#0F6E56"/>
+<text x="216" y="456" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="middle">✓</text>
+<text x="234" y="448" font-size="11.5" font-weight="500" fill="#0F6E56">小跳几厘米</text>
+<text x="234" y="466" font-size="11" fill="#5F5E5A">快、轻、有弹性</text>
+<rect x="52" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="560" font-size="11" fill="#993C1D">自检：原地练 20 次，次次轻快无声</text>
+<rect x="346" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="348" r="8" fill="#D85A30"/>
+<text x="366" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="380" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">为什么必须做</text>
+<rect x="380" y="396" width="120" height="22" rx="5" fill="#D85A30"/>
+<text x="388" y="411" font-size="11" font-weight="500" fill="#FFFFFF">有启动步</text>
+<rect x="380" y="430" width="190" height="22" rx="5" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
+<rect x="380" y="430" width="60" height="22" rx="5" fill="#B4B2A9"/>
+<text x="388" y="445" font-size="11" font-weight="500" fill="#FFFFFF">没有</text>
+<text x="508" y="411" font-size="11" fill="#5F5E5A">触球即动</text>
+<text x="578" y="445" font-size="11" fill="#993C1D">慢 0.2-0.3 秒</text>
+<text x="358" y="516" font-size="11" fill="#5F5E5A">每次移动省 0.2-0.3 秒，一回合 10 拍就是 2-3 秒</text>
+<text x="358" y="532" font-size="11" fill="#5F5E5A">业余和专业的差距，先从这一跳开始补</text>
+<rect x="358" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="560" font-size="11" fill="#993C1D">自检：每拍都做，做成本能</text>
+</svg>

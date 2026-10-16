@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 596" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>发球腿部动作图解</title>
+<desc>四张特写：正手发球重心从后脚到前脚、反手发球重心在前脚、击球前双脚静止规则、单双打站位选择。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">发球 · 腿部动作图解</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">侧面视角，图左为网 · 发球脚下就两件事：重心放哪、动没动</text>
+<rect x="40" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">正手发球 · 重心后→前</text>
+<line x1="54" y1="222" x2="322" y2="222" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="130" cy="122" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M130,139 L132,184"/>
+<path d="M132,184 L120,208 L114,222 L102,222"/>
+<path d="M132,184 L144,210 L150,222 L158,222"/>
+<path d="M130,139 L118,154 L112,166"/>
+<path d="M132,139 L146,124 L152,142"/>
+</g>
+<circle cx="240" cy="122" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M240,139 L244,184"/>
+<path d="M244,184 L230,206 L224,222 L212,222"/>
+<path d="M244,184 L256,210 L262,222 L270,222"/>
+<path d="M240,139 L226,124 L214,112"/>
+<path d="M242,139 L252,154 L256,166"/>
+</g>
+<line x1="118" y1="196" x2="118" y2="210" stroke="#D85A30" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="96" y="190" font-size="11" fill="#993C1D">压右脚</text>
+<line x1="252" y1="196" x2="252" y2="210" stroke="#D85A30" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="230" y="190" font-size="11" fill="#993C1D">移左脚</text>
+<line x1="166" y1="160" x2="206" y2="160" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="130" y="240" font-size="10.5" fill="#2C2C2A" text-anchor="middle">准备 · 重心后脚</text>
+<text x="240" y="240" font-size="10.5" fill="#993C1D" text-anchor="middle">击球 · 重心前移</text>
+<text x="54" y="252" font-size="11" fill="#5F5E5A">重心转移给发球加一点向前的力</text>
+<text x="54" y="268" font-size="11" fill="#5F5E5A">但脚不抬不移：是「压」过去不是「迈」过去</text>
+<rect x="52" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="296" font-size="11" fill="#993C1D">自检：发球后自然站稳，不上步</text>
+<rect x="346" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="84" r="8" fill="#D85A30"/>
+<text x="366" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="380" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">反手发球 · 重心前脚</text>
+<line x1="358" y1="222" x2="626" y2="222" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="480" cy="122" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M480,139 L482,184"/>
+<path d="M482,184 L466,206 L458,222 L446,222"/>
+<path d="M482,184 L496,210 L502,222 L510,222"/>
+<path d="M480,139 L468,152 L462,164"/>
+<path d="M482,139 L494,150 L498,162"/>
+<ellipse cx="502" cy="168" rx="5" ry="10" transform="rotate(-12 502 168)" stroke-width="2"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="480" cy="139" r="3.2"/><circle cx="482" cy="184" r="3.2"/><circle cx="466" cy="206" r="3.2"/><circle cx="496" cy="210" r="3.2"/><circle cx="458" cy="222" r="3.2"/><circle cx="502" cy="222" r="3.2"/>
+</g>
+<line x1="464" y1="196" x2="464" y2="210" stroke="#D85A30" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="428" y="190" font-size="11" fill="#993C1D">重心前脚</text>
+<text x="540" y="150" font-size="11" fill="#5F5E5A">上体稍前倾</text>
+<text x="540" y="168" font-size="11" fill="#5F5E5A">举拍于腰间</text>
+<text x="358" y="252" font-size="11" fill="#5F5E5A">面向球网站立，前后脚开立，重心压前脚</text>
+<text x="358" y="268" font-size="11" fill="#5F5E5A">人往前顶，球才压得住不冒高</text>
+<rect x="358" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="296" font-size="11" fill="#993C1D">自检：发球时后脚跟可以微抬</text>
+<rect x="40" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="348" r="8" fill="#D85A30"/>
+<text x="60" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">双脚静止 · 规则</text>
+<line x1="60" y1="470" x2="320" y2="470" stroke="#D3D1C7" stroke-width="1"/>
+<ellipse cx="120" cy="458" rx="12" ry="7" fill="#FFFFFF" stroke="#0F6E56" stroke-width="2"/>
+<ellipse cx="160" cy="458" rx="12" ry="7" fill="#FFFFFF" stroke="#0F6E56" stroke-width="2"/>
+<text x="140" y="492" font-size="11" fill="#0F6E56" text-anchor="middle">✓ 双脚有一部分始终触地</text>
+<ellipse cx="240" cy="452" rx="12" ry="7" fill="#FFFFFF" stroke="#993C1D" stroke-width="2" stroke-dasharray="3 2"/>
+<ellipse cx="282" cy="458" rx="12" ry="7" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<line x1="240" y1="462" x2="240" y2="470" stroke="#993C1D" stroke-width="1.5" stroke-dasharray="2 2"/>
+<text x="262" y="492" font-size="11" fill="#993C1D" text-anchor="middle">✗ 抬起/移动 = 违例</text>
+<text x="54" y="516" font-size="11" fill="#5F5E5A">从发球动作开始到击球，双脚不得抬起或移动</text>
+<text x="54" y="532" font-size="11" fill="#5F5E5A">可以转、可以压重心，但不能离地不能拖步</text>
+<rect x="52" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="560" font-size="11" fill="#993C1D">自检：发球全过程鞋底不离开地面</text>
+<rect x="346" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="348" r="8" fill="#D85A30"/>
+<text x="366" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="380" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">单双打 · 站位选择</text>
+<rect x="382" y="366" width="222" height="140" fill="#FDFCF9" stroke="#444441" stroke-width="1.5"/>
+<line x1="382" y1="374" x2="604" y2="374" stroke="#444441" stroke-width="3"/>
+<text x="598" y="370" font-size="10" fill="#888780" text-anchor="end">网</text>
+<line x1="382" y1="412" x2="604" y2="412" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="386" y="408" font-size="9" fill="#888780">前发球线</text>
+<circle cx="452" cy="426" r="5" fill="#D85A30"/>
+<text x="396" y="444" font-size="10.5" fill="#993C1D">双打 · 线后 10-50cm</text>
+<circle cx="500" cy="472" r="5" fill="#444441"/>
+<text x="440" y="490" font-size="10.5" fill="#2C2C2A">单打 · 离线约 1 米</text>
+<text x="358" y="516" font-size="11" fill="#5F5E5A">双打发小球：站前一点，过网路程短更贴网</text>
+<text x="358" y="532" font-size="11" fill="#5F5E5A">单打发高远：站后一点，发完正好回中心</text>
+<rect x="358" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="560" font-size="11" fill="#993C1D">自检：不打听，凭习惯就站对位置</text>
+</svg>

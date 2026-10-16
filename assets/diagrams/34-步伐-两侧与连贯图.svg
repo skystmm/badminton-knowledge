@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 596" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>两侧移动与前后连贯步伐图解</title>
+<desc>四张特写：左右防守移动脚步、杀上网前后连贯路线、前到后连贯路线、反手区左后场后退脚步。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">两侧移动与连贯 · 步伐图解</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">单项步法会了不算完：连贯起来才是球场上的移动</text>
+<rect x="40" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">左右防守移动 · 低重心</text>
+<rect x="76" y="104" width="222" height="120" fill="#FDFCF9" stroke="#D3D1C7" stroke-width="1"/>
+<line x1="76" y1="112" x2="298" y2="112" stroke="#888780" stroke-width="3"/>
+<text x="292" y="108" font-size="10" fill="#888780" text-anchor="end">网</text>
+<ellipse cx="168" cy="196" rx="9" ry="15" transform="rotate(30 168 196)" fill="#F1EFE8" stroke="#888780" stroke-width="1.5"/>
+<ellipse cx="206" cy="196" rx="9" ry="15" transform="rotate(-30 206 196)" fill="#F1EFE8" stroke="#888780" stroke-width="1.5"/>
+<text x="187" y="222" font-size="10" fill="#888780" text-anchor="middle">防守准备</text>
+<ellipse cx="118" cy="176" rx="9" ry="15" transform="rotate(50 118 176)" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<ellipse cx="256" cy="176" rx="9" ry="15" transform="rotate(-50 256 176)" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<path d="M162,188 Q138,182 126,180" fill="none" stroke="#444441" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<path d="M212,188 Q236,182 248,180" fill="none" stroke="#444441" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<text x="92" y="160" font-size="10" fill="#5F5E5A">左侧</text>
+<text x="262" y="160" font-size="10" fill="#5F5E5A">右侧</text>
+<text x="54" y="252" font-size="11" fill="#5F5E5A">防守站低：宽站距、屈膝、拍举在身前</text>
+<text x="54" y="268" font-size="11" fill="#5F5E5A">侧移用并步小跳，最后一步脚内侧着地刹停</text>
+<rect x="52" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="296" font-size="11" fill="#993C1D">自检：左右摸线 10 趟不摔重心</text>
+<rect x="346" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="84" r="8" fill="#D85A30"/>
+<text x="366" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="380" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">杀上网 · 后前连贯</text>
+<rect x="382" y="100" width="222" height="146" fill="#FDFCF9" stroke="#444441" stroke-width="1.5"/>
+<line x1="382" y1="112" x2="604" y2="112" stroke="#444441" stroke-width="3"/>
+<text x="598" y="108" font-size="10" fill="#888780" text-anchor="end">网</text>
+<circle cx="530" cy="222" r="5" fill="#D85A30"/>
+<text x="472" y="238" font-size="10.5" fill="#2C2C2A">后场杀球</text>
+<path d="M526,214 Q500,170 470,140" fill="none" stroke="#D85A30" stroke-width="1.8" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<circle cx="462" cy="130" r="4" fill="#993C1D"/>
+<text x="428" y="148" font-size="10.5" fill="#993C1D">上网跟进</text>
+<path d="M540,208 Q560,170 574,136" fill="none" stroke="#888780" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<text x="560" y="222" font-size="10" fill="#5F5E5A">对手挡网</text>
+<text x="358" y="252" font-size="11" fill="#5F5E5A">杀完不站着看：判断对手挡网立刻交叉跨步冲网</text>
+<text x="358" y="268" font-size="11" fill="#5F5E5A">后场到网前是球场上最长的一次连贯</text>
+<rect x="358" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="296" font-size="11" fill="#993C1D">自检：杀完 2 步内人已启动向前</text>
+<rect x="40" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="348" r="8" fill="#D85A30"/>
+<text x="60" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">前后连贯 · 网前退后场</text>
+<rect x="76" y="366" width="222" height="140" fill="#FDFCF9" stroke="#444441" stroke-width="1.5"/>
+<line x1="76" y1="378" x2="298" y2="378" stroke="#444441" stroke-width="3"/>
+<text x="292" y="374" font-size="10" fill="#888780" text-anchor="end">网</text>
+<circle cx="140" cy="398" r="4" fill="#D85A30"/>
+<text x="98" y="416" font-size="10.5" fill="#2C2C2A">网前击球</text>
+<path d="M146,406 Q180,440 220,470" fill="none" stroke="#D85A30" stroke-width="1.8" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<circle cx="230" cy="478" r="4" fill="#993C1D"/>
+<text x="196" y="498" font-size="10.5" fill="#993C1D">退到后场</text>
+<text x="54" y="516" font-size="11" fill="#5F5E5A">网前击球后先回两步观察，对手挑后场立刻</text>
+<text x="54" y="532" font-size="11" fill="#5F5E5A">并步/交叉步斜退，别背对球直线倒退跑</text>
+<rect x="52" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="560" font-size="11" fill="#993C1D">自检：退到位时仍侧着身、看得见球</text>
+<rect x="346" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="348" r="8" fill="#D85A30"/>
+<text x="366" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="380" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">反手区后退 · 左后场</text>
+<rect x="382" y="366" width="222" height="140" fill="#FDFCF9" stroke="#D3D1C7" stroke-width="1"/>
+<line x1="382" y1="378" x2="604" y2="378" stroke="#888780" stroke-width="3"/>
+<text x="598" y="374" font-size="10" fill="#888780" text-anchor="end">网</text>
+<ellipse cx="482" cy="404" rx="9" ry="15" transform="rotate(12 482 404)" fill="#F1EFE8" stroke="#888780" stroke-width="1.5"/>
+<ellipse cx="504" cy="404" rx="9" ry="15" transform="rotate(-12 504 404)" fill="#F1EFE8" stroke="#888780" stroke-width="1.5"/>
+<text x="474" y="392" font-size="10" fill="#888780">左</text>
+<text x="502" y="392" font-size="10" fill="#888780">右</text>
+<ellipse cx="470" cy="434" rx="9" ry="15" transform="rotate(20 470 434)" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<ellipse cx="446" cy="452" rx="9" ry="15" transform="rotate(35 446 452)" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<ellipse cx="424" cy="476" rx="9" ry="16" transform="rotate(45 424 476)" fill="#D85A30" stroke="#993C1D" stroke-width="1.5"/>
+<path d="M482,414 Q474,424 472,428" fill="none" stroke="#444441" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<path d="M500,414 Q470,438 452,448" fill="none" stroke="#444441" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<path d="M444,460 Q432,468 428,472" fill="none" stroke="#D85A30" stroke-width="1.8" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<circle cx="474" cy="422" r="7" fill="#444441"/>
+<text x="474" y="426" font-size="10" fill="#FFF" text-anchor="middle">1</text>
+<circle cx="468" cy="440" r="7" fill="#444441"/>
+<text x="468" y="444" font-size="10" fill="#FFF" text-anchor="middle">2</text>
+<circle cx="440" cy="462" r="7" fill="#D85A30"/>
+<text x="440" y="466" font-size="10" fill="#FFF" text-anchor="middle">3</text>
+<text x="358" y="516" font-size="11" fill="#5F5E5A">① 左脚左移小步 ② 以左脚为轴转身、右脚交叉</text>
+<text x="358" y="532" font-size="11" fill="#5F5E5A">③ 左脚向左后跨大步，转身到位打反手或头顶</text>
+<rect x="358" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="560" font-size="11" fill="#993C1D">自检：转身后球仍在视野里</text>
+</svg>
