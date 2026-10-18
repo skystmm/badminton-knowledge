@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 468" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>网前四技术三视图对比</title>
+<desc>侧视击球点高度、正视拍面角度、俯视落点，四项同图对比。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="44" font-size="15" font-weight="500" fill="#2C2C2A">网前四技术三视图对比</text>
+<text x="40" y="62" font-size="12" fill="#5F5E5A">四项同站位，三处不同：点的高度 · 拍面的角度 · 球的去向</text>
+
+<g>
+<rect x="40" y="80" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="104" font-size="13" font-weight="500" fill="#2C2C2A">侧视：击球点高度</text>
+<line x1="100" y1="126" x2="100" y2="290" stroke="#B4B2A9" stroke-width="2"/>
+<line x1="94" y1="126" x2="106" y2="126" stroke="#888780" stroke-width="2"/><text x="112" y="124" font-size="10" fill="#888780">网顶</text>
+<circle cx="180" cy="134" r="3.4" fill="#D85A30"/><text x="192" y="130" font-size="11" fill="#D85A30">扑（最高，网带上）</text>
+<circle cx="180" cy="158" r="3.4" fill="#D85A30"/><text x="192" y="154" font-size="11" fill="#D85A30">推（次高）</text>
+<circle cx="180" cy="186" r="3.4" fill="#888780"/><text x="192" y="182" font-size="11" fill="#888780">搓（中）</text>
+<circle cx="180" cy="258" r="3.4" fill="#5F5E5A"/><text x="192" y="254" font-size="11" fill="#5F5E5A">挑（低点）</text>
+<line x1="140" y1="286" x2="240" y2="286" stroke="#D3D1C7" stroke-width="1"/>
+<rect x="52" y="296" width="270" height="24" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="312" font-size="11" fill="#993C1D">点越高越主动：扑推能下压，挑只能解困</text>
+</g>
+
+<g>
+<rect x="352" y="80" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="368" y="104" font-size="13" font-weight="500" fill="#2C2C2A">正视：拍面角度</text>
+<line x1="440" y1="140" x2="468" y2="150" stroke="#444441" stroke-width="2.2" stroke-linecap="round"/>
+<text x="376" y="146" font-size="11" fill="#D85A30" text-anchor="end">扑</text><text x="476" y="154" font-size="11" fill="#5F5E5A">前倾下压</text>
+<line x1="440" y1="170" x2="452" y2="182" stroke="#444441" stroke-width="2.2" stroke-linecap="round"/>
+<text x="376" y="176" font-size="11" fill="#D85A30" text-anchor="end">推</text><text x="476" y="184" font-size="11" fill="#5F5E5A">近垂直稍立</text>
+<line x1="440" y1="200" x2="428" y2="212" stroke="#444441" stroke-width="2.2" stroke-linecap="round"/>
+<text x="376" y="206" font-size="11" fill="#888780" text-anchor="end">搓/勾</text><text x="476" y="214" font-size="11" fill="#5F5E5A">约 45° 内切</text>
+<line x1="440" y1="230" x2="416" y2="222" stroke="#444441" stroke-width="2.2" stroke-linecap="round"/>
+<text x="376" y="236" font-size="11" fill="#5F5E5A" text-anchor="end">挑</text><text x="476" y="244" font-size="11" fill="#5F5E5A">后仰约 60° 向前上</text>
+<path d="M452,150 Q462,170 452,182" fill="none" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="2 2"/>
+<path d="M452,212 Q454,222 450,228" fill="none" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="2 2"/>
+<rect x="364" y="296" width="270" height="24" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="374" y="312" font-size="11" fill="#993C1D">从扑到挑，拍面正好翻了 180° 方向</text>
+</g>
+
+<g>
+<rect x="40" y="340" width="294" height="112" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="364" font-size="13" font-weight="500" fill="#2C2C2A">俯视落点（下方为我方）</text>
+<rect x="70" y="376" width="120" height="64" rx="4" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="88" cy="428" r="3.4" fill="#D85A30"/><text x="98" y="432" font-size="10" fill="#D85A30">扑：中前场两腰</text>
+<circle cx="88" cy="396" r="3.4" fill="#D85A30"/><text x="98" y="400" font-size="10" fill="#D85A30">推：底线两角</text>
+<circle cx="88" cy="412" r="3.4" fill="#888780"/><text x="98" y="416" font-size="10" fill="#888780">挑：底线高弧</text>
+</g>
+
+<g>
+<rect x="352" y="340" width="294" height="112" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="368" y="364" font-size="13" font-weight="500" fill="#2C2C2A">俯视落点（下方为我方）</text>
+<rect x="382" y="376" width="120" height="64" rx="4" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="400" cy="426" r="3.4" fill="#5F5E5A"/><text x="410" y="430" font-size="10" fill="#5F5E5A">勾：对角网前</text>
+<circle cx="400" cy="410" r="3.4" fill="#888780"/><text x="410" y="414" font-size="10" fill="#888780">搓：贴网（直）</text>
+<circle cx="486" cy="396" r="3.4" fill="#D85A30"/><text x="496" y="400" font-size="10" fill="#D85A30">扑/推球去处参见左卡</text>
+</g>
+</svg>
