@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 596" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>全场四点路线图解</title>
+<desc>全场四点跑位顺序与路线：中心出发覆盖四个角落，每次击球后回中心再出发，先求到位再求速度。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">全场四点 · 跑位路线图</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">场地俯视 · 上方为对方场地 · 每次击球后回中心再启动</text>
+<rect x="40" y="62" width="600" height="260" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<rect x="90" y="84" width="500" height="216" fill="#FDFCF9" stroke="#444441" stroke-width="1.5"/>
+<line x1="90" y1="192" x2="590" y2="192" stroke="#444441" stroke-width="3"/>
+<text x="586" y="188" font-size="10" fill="#888780" text-anchor="end">网</text>
+<line x1="90" y1="140" x2="590" y2="140" stroke="#B4B2A9" stroke-width="1"/>
+<line x1="90" y1="248" x2="590" y2="248" stroke="#B4B2A9" stroke-width="1"/>
+<line x1="340" y1="192" x2="340" y2="300" stroke="#B4B2A9" stroke-width="1"/>
+<text x="340" y="120" font-size="10" fill="#888780" text-anchor="middle">对方场地</text>
+<circle cx="340" cy="250" r="6" fill="#993C1D"/>
+<circle cx="340" cy="250" r="12" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="354" y="254" font-size="11" font-weight="500" fill="#993C1D">中心</text>
+<g stroke-width="1.8" fill="none" stroke-dasharray="5 3">
+<path d="M330,242 Q240,200 150,120" stroke="#D85A30" marker-end="url(#arrow)"/>
+<path d="M152,124 Q240,180 326,244" stroke="#B4B2A9" marker-end="url(#arrow)"/>
+<path d="M334,240 Q420,180 520,124" stroke="#D85A30" marker-end="url(#arrow)"/>
+<path d="M518,128 Q430,190 344,244" stroke="#B4B2A9" marker-end="url(#arrow)"/>
+<path d="M332,256 Q220,268 130,276" stroke="#D85A30" marker-end="url(#arrow)"/>
+<path d="M134,282 Q240,276 326,258" stroke="#B4B2A9" marker-end="url(#arrow)"/>
+<path d="M348,256 Q460,268 550,276" stroke="#D85A30" marker-end="url(#arrow)"/>
+</g>
+<circle cx="530" cy="112" r="10" fill="#D85A30"/>
+<text x="530" y="116" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle">1</text>
+<text x="492" y="104" font-size="10.5" fill="#2C2C2A">右前 · 搓/放</text>
+<circle cx="140" cy="112" r="10" fill="#D85A30"/>
+<text x="140" y="116" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle">2</text>
+<text x="100" y="104" font-size="10.5" fill="#2C2C2A">左前 · 反手网前</text>
+<circle cx="560" cy="282" r="10" fill="#D85A30"/>
+<text x="560" y="286" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle">3</text>
+<text x="520" y="270" font-size="10.5" fill="#2C2C2A">右后 · 高远/杀</text>
+<circle cx="120" cy="282" r="10" fill="#D85A30"/>
+<text x="120" y="286" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle">4</text>
+<text x="90" y="270" font-size="10.5" fill="#2C2C2A">左后 · 头顶区</text>
+<text x="96" y="316" font-size="10.5" fill="#888780">橙线＝去 · 灰线＝回中心 · 顺序可由教练随机指</text>
+<rect x="40" y="336" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="358" r="8" fill="#D85A30"/>
+<text x="60" y="358" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="362" font-size="12.5" font-weight="500" fill="#2C2C2A">跑位三原则</text>
+<g font-size="12" fill="#2C2C2A">
+<circle cx="72" cy="406" r="4" fill="#D85A30"/>
+<text x="86" y="410">每次击球后先回中心</text>
+<circle cx="72" cy="442" r="4" fill="#D85A30"/>
+<text x="86" y="446">先求到位稳，再求速度快</text>
+<circle cx="72" cy="478" r="4" fill="#D85A30"/>
+<text x="86" y="482">重心压低，路线走直线</text>
+</g>
+<text x="54" y="516" font-size="11" fill="#5F5E5A">四点不是赛跑：到位-站稳-（模拟击球）-回中</text>
+<text x="54" y="532" font-size="11" fill="#5F5E5A">节奏感比绝对速度重要</text>
+<rect x="52" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="560" font-size="11" fill="#993C1D">自检：每个点都能定住再回中</text>
+<rect x="346" y="336" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="358" r="8" fill="#D85A30"/>
+<text x="366" y="358" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="380" y="362" font-size="12.5" font-weight="500" fill="#2C2C2A">训练与过关</text>
+<g font-size="12" fill="#2C2C2A">
+<circle cx="372" cy="406" r="4" fill="#D85A30"/>
+<text x="386" y="410">影子跑：3 组 × 8 趟（无球）</text>
+<circle cx="372" cy="442" r="4" fill="#D85A30"/>
+<text x="386" y="446">计时：四点一圈 ≤ 20 秒</text>
+<circle cx="372" cy="478" r="4" fill="#D85A30"/>
+<text x="386" y="482">升级：教练随机指方向</text>
+</g>
+<text x="358" y="516" font-size="11" fill="#5F5E5A">常见错误：不回中就连跑、交叉腿打架、</text>
+<text x="358" y="532" font-size="11" fill="#5F5E5A">直着身子跑（重心太高）</text>
+<rect x="358" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="560" font-size="11" fill="#993C1D">自检：20 秒完成且动作不变形</text>
+</svg>

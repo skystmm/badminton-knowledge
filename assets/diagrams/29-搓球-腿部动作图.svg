@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 596" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>搓球腿部动作图解</title>
+<desc>四张特写：两步上网与三步上网的俯视脚步分解、弓箭步制动侧视、击球后蹬地回动。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">搓球 · 腿部动作图解</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">俯视为脚步分解（上方为网）· 侧视为制动与回动 · 右手持拍上右网前</text>
+<rect x="40" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">两步上网 · 站位靠前</text>
+<rect x="76" y="100" width="222" height="140" fill="#FDFCF9" stroke="#D3D1C7" stroke-width="1"/>
+<line x1="76" y1="112" x2="298" y2="112" stroke="#888780" stroke-width="3"/>
+<text x="292" y="108" font-size="10" fill="#888780" text-anchor="end">网</text>
+<ellipse cx="176" cy="206" rx="9" ry="15" transform="rotate(12 176 206)" fill="#F1EFE8" stroke="#888780" stroke-width="1.5"/>
+<ellipse cx="198" cy="206" rx="9" ry="15" transform="rotate(-12 198 206)" fill="#F1EFE8" stroke="#888780" stroke-width="1.5"/>
+<text x="176" y="230" font-size="10" fill="#888780" text-anchor="middle">左</text>
+<text x="198" y="230" font-size="10" fill="#888780" text-anchor="middle">右</text>
+<ellipse cx="222" cy="152" rx="9" ry="15" transform="rotate(-25 222 152)" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<ellipse cx="250" cy="118" rx="9" ry="16" transform="rotate(-35 250 118)" fill="#D85A30" stroke="#993C1D" stroke-width="1.5"/>
+<path d="M174,196 Q214,176 220,164" fill="none" stroke="#444441" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<path d="M198,196 Q232,160 242,128" fill="none" stroke="#D85A30" stroke-width="1.8" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<circle cx="212" cy="176" r="7" fill="#444441"/>
+<text x="212" y="180" font-size="10" fill="#FFF" text-anchor="middle">1</text>
+<circle cx="214" cy="150" r="7" fill="#D85A30"/>
+<text x="214" y="154" font-size="10" fill="#FFF" text-anchor="middle">2</text>
+<text x="54" y="252" font-size="11" fill="#5F5E5A">① 左脚先向来球跨一步 ② 右脚大跨到位</text>
+<text x="54" y="268" font-size="11" fill="#5F5E5A">最后一步右脚跟着地，成弓箭步</text>
+<rect x="52" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="296" font-size="11" fill="#993C1D">自检：两步到位，不多倒小碎步</text>
+<rect x="346" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="84" r="8" fill="#D85A30"/>
+<text x="366" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="380" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">三步上网 · 站位靠后</text>
+<rect x="382" y="100" width="222" height="140" fill="#FDFCF9" stroke="#D3D1C7" stroke-width="1"/>
+<line x1="382" y1="112" x2="604" y2="112" stroke="#888780" stroke-width="3"/>
+<text x="598" y="108" font-size="10" fill="#888780" text-anchor="end">网</text>
+<ellipse cx="482" cy="210" rx="9" ry="15" transform="rotate(12 482 210)" fill="#F1EFE8" stroke="#888780" stroke-width="1.5"/>
+<ellipse cx="504" cy="210" rx="9" ry="15" transform="rotate(-12 504 210)" fill="#F1EFE8" stroke="#888780" stroke-width="1.5"/>
+<text x="482" y="234" font-size="10" fill="#888780" text-anchor="middle">左</text>
+<text x="504" y="234" font-size="10" fill="#888780" text-anchor="middle">右</text>
+<ellipse cx="516" cy="172" rx="9" ry="15" transform="rotate(5 516 172)" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<ellipse cx="540" cy="146" rx="9" ry="15" transform="rotate(-25 540 146)" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<ellipse cx="562" cy="118" rx="9" ry="16" transform="rotate(-35 562 118)" fill="#D85A30" stroke="#993C1D" stroke-width="1.5"/>
+<path d="M508,198 Q514,186 514,180" fill="none" stroke="#444441" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<path d="M486,196 Q520,168 534,156" fill="none" stroke="#444441" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<path d="M520,164 Q546,140 556,128" fill="none" stroke="#D85A30" stroke-width="1.8" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<circle cx="512" cy="188" r="7" fill="#444441"/>
+<text x="512" y="192" font-size="10" fill="#FFF" text-anchor="middle">1</text>
+<circle cx="530" cy="166" r="7" fill="#444441"/>
+<text x="530" y="170" font-size="10" fill="#FFF" text-anchor="middle">2</text>
+<circle cx="546" cy="140" r="7" fill="#D85A30"/>
+<text x="546" y="144" font-size="10" fill="#FFF" text-anchor="middle">3</text>
+<text x="358" y="252" font-size="11" fill="#5F5E5A">① 右脚小步启动 ② 左脚前交叉 ③ 右脚大跨</text>
+<text x="358" y="268" font-size="11" fill="#5F5E5A">第一步小而快，最后一步大而稳</text>
+<rect x="358" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="296" font-size="11" fill="#993C1D">自检：三步节奏 哒-哒-蹬，不交叉腿打架</text>
+<rect x="40" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="348" r="8" fill="#D85A30"/>
+<text x="60" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">弓箭步制动 · 侧视</text>
+<line x1="54" y1="486" x2="322" y2="486" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="180" cy="386" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M180,403 L188,444"/>
+<path d="M188,444 L162,460 L148,482 L136,484"/>
+<path d="M188,444 L210,468 L222,484 L234,482"/>
+<path d="M180,403 L158,402 L136,400"/>
+<line x1="136" y1="400" x2="122" y2="398"/>
+<ellipse cx="117" cy="397" rx="5" ry="10" transform="rotate(78 117 397)" stroke-width="2"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="180" cy="403" r="3.2"/><circle cx="188" cy="444" r="3.2"/><circle cx="162" cy="460" r="3.2"/><circle cx="210" cy="468" r="3.2"/><circle cx="148" cy="482" r="3.2"/><circle cx="222" cy="484" r="3.2"/>
+</g>
+<line x1="148" y1="482" x2="136" y2="484" stroke="#D85A30" stroke-width="2.5"/>
+<text x="86" y="470" font-size="11" fill="#993C1D">脚跟着地</text>
+<line x1="128" y1="474" x2="140" y2="481" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="152" y="442" font-size="11" fill="#993C1D">膝内扣缓冲</text>
+<line x1="158" y1="446" x2="162" y2="456" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="222" y="446" font-size="11" fill="#5F5E5A">重心低而稳</text>
+<text x="54" y="516" font-size="11" fill="#5F5E5A">站稳了手才能细：脚跟着地→屈膝缓冲→重心压住</text>
+<text x="54" y="532" font-size="11" fill="#5F5E5A">脚尖着地 = 站不稳 + 容易崴脚</text>
+<rect x="52" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="560" font-size="11" fill="#993C1D">自检：到位后能定住 2 秒不晃</text>
+<rect x="346" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="348" r="8" fill="#D85A30"/>
+<text x="366" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="380" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">蹬地回动 · 侧视</text>
+<line x1="358" y1="486" x2="626" y2="486" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="452" cy="392" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M452,409 L458,448"/>
+<path d="M458,448 L438,466 L426,484 L414,484"/>
+<path d="M458,448 L474,462 L482,478 L494,474"/>
+<path d="M452,409 L440,424 L434,436"/>
+<line x1="434" y1="436" x2="428" y2="450"/>
+<ellipse cx="426" cy="456" rx="5" ry="10" transform="rotate(14 426 456)" stroke-width="2"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="452" cy="409" r="3.2"/><circle cx="458" cy="448" r="3.2"/><circle cx="438" cy="466" r="3.2"/><circle cx="474" cy="462" r="3.2"/><circle cx="426" cy="484" r="3.2"/><circle cx="482" cy="478" r="3.2"/>
+</g>
+<path d="M420,452 Q410,470 408,482" fill="none" stroke="#D85A30" stroke-width="1.8" marker-end="url(#arrow)"/>
+<text x="386" y="444" font-size="11" fill="#993C1D">右脚蹬地</text>
+<line x1="500" y1="470" x2="560" y2="462" stroke="#888780" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<text x="508" y="452" font-size="11" fill="#5F5E5A">小碎步回中心</text>
+<circle cx="586" cy="458" r="10" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="578" y="476" font-size="10" fill="#993C1D">中心</text>
+<text x="358" y="516" font-size="11" fill="#5F5E5A">击球一出手就蹬地起身，别欣赏自己的球</text>
+<text x="358" y="532" font-size="11" fill="#5F5E5A">拍收回胸前举着，防对手回放网前</text>
+<rect x="358" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="560" font-size="11" fill="#993C1D">自检：击球后 1 秒内启动回动</text>
+</svg>

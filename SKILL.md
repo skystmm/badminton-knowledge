@@ -23,8 +23,8 @@ agent_created: true
 | `scripts/draw_diagram.py` | 教学图示生成器：pose 骨架分解 / court 场地俯视 / grip 握拍截面 / panel 拼图（依赖 Pillow） | **技术教学配图（必用）**、步伐路线、站位、发力链条 |
 | `assets/specs/*.json` | 图示规格：clear-high（高远球四步）/ contact-point（击球点正误）/ footwork-net（网前步伐）/ doubles-serve（双打发球） | 直接复用生成现成图 |
 | `assets/diagrams/*.png` | 已生成的示范图（高远球分解、击球点对比、握拍、步伐、双打发球） | 回答对应问题时**直接引用** |
-| `assets/diagrams/02~10-*.svg` | 自绘教学系列：高远球/吊球四步关节分解、手部细节（含反握与触球发力）、腿部动作、击球瞬间三视图 | 对应技术讲解时**直接引用**，每张图带自检标准；新技术收录时编号从 11 起接续，命名 `NN-技术名-类型.svg` |
-| `assets/animations/07~08-*.html` | 循环演示动画（正手高远球、吊球）：真实时间轴插值，可 0.5x 慢放、拖动进度、跳步 | 讲解完整发力过程时与静态图配套给出，浏览器直接打开 |
+| `assets/diagrams/02~41-*.svg` | 自绘教学系列：高远球/吊球/劈吊/杀球/搓球/步伐/发球的关节分解、手部与手指细节、腿部动作、击球瞬间三视图、单双打站位 | 对应技术讲解时**直接引用**，每张图带自检标准；新技术收录时编号从 42 起接续，命名 `NN-技术名-类型.svg` |
+| `assets/animations/07~08、21-*.html` | 循环演示动画（正手高远球、吊球、杀球）：真实时间轴插值，可 0.5x 慢放、拖动进度、跳步 | 讲解完整发力过程时与静态图配套给出，浏览器直接打开 |
 
 **模型下载**（pose_detect.py 首次使用前）：
 `curl -L -o pose_landmarker_full.task "https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_full/float16/1/pose_landmarker_full.task"`

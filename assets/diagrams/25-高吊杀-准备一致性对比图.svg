@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 596" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>高远吊杀准备一致性对比图</title>
+<desc>高远球、吊球、杀球的准备与引拍一致性对比：前两步完全相同，差别只出现在击球瞬间——这是隐蔽性的来源。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">高远 / 吊 / 杀 · 准备一致性对比</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">前半段越一样，出球越有突然性 · 差别只许出现在击球瞬间</text>
+<rect x="40" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">架拍 · 三球合一</text>
+<line x1="80" y1="222" x2="294" y2="222" stroke="#D3D1C7" stroke-width="1"/>
+<circle cx="187" cy="118" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M187,135 L187,181"/>
+<path d="M187,181 L174,207 L165,222 L151,222"/>
+<path d="M187,181 L199,209 L205,222 L213,222"/>
+<path d="M187,135 L174,118 L161,105"/>
+<path d="M187,135 L196,152 L189,169"/>
+<line x1="189" y1="169" x2="183" y2="150"/>
+<ellipse cx="181" cy="143" rx="5" ry="10" transform="rotate(-8 181 143)" stroke-width="2"/>
+</g>
+<path d="M151,93 L162,82 L160,94 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="150" cy="94" r="3" fill="#D85A30"/>
+<g font-size="11" font-weight="500">
+<rect x="222" y="118" width="52" height="22" rx="6" fill="#F1EFE8"/>
+<text x="248" y="133" text-anchor="middle" fill="#2C2C2A">高远球</text>
+<rect x="222" y="148" width="52" height="22" rx="6" fill="#F1EFE8"/>
+<text x="248" y="163" text-anchor="middle" fill="#2C2C2A">吊球</text>
+<rect x="222" y="178" width="52" height="22" rx="6" fill="#F1EFE8"/>
+<text x="248" y="193" text-anchor="middle" fill="#2C2C2A">杀球</text>
+</g>
+<line x1="220" y1="129" x2="200" y2="138" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<line x1="220" y1="159" x2="200" y2="150" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<line x1="220" y1="189" x2="200" y2="162" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="54" y="252" font-size="11" fill="#5F5E5A">三种球的架拍动作完全一样</text>
+<text x="54" y="268" font-size="11" fill="#5F5E5A">对手看到的都是同一个「要打高远」</text>
+<rect x="52" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="296" font-size="11" fill="#993C1D">自检：拍照对比，三种准备分不出来</text>
+<rect x="346" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="84" r="8" fill="#D85A30"/>
+<text x="366" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="380" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">引拍 · 差在最后一点</text>
+<g stroke="#444441" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<circle cx="420" cy="128" r="8" stroke-width="2.5"/>
+<path d="M420,138 L422,172"/>
+<path d="M420,140 L432,124 L438,142"/>
+<circle cx="510" cy="128" r="8" stroke-width="2.5"/>
+<path d="M510,138 L512,172"/>
+<path d="M510,140 L522,124 L528,142"/>
+<circle cx="600" cy="128" r="8" stroke-width="2.5"/>
+<path d="M600,138 L604,172"/>
+<path d="M602,140 L614,122 L621,142"/>
+</g>
+<text x="420" y="196" font-size="11" fill="#2C2C2A" text-anchor="middle">高远 · 基准</text>
+<text x="510" y="196" font-size="11" fill="#2C2C2A" text-anchor="middle">吊 · 相同</text>
+<text x="600" y="196" font-size="11" fill="#993C1D" text-anchor="middle">杀 · 略后仰</text>
+<text x="358" y="252" font-size="11" fill="#5F5E5A">引拍前 80% 必须一致，区别只在最后 20%</text>
+<text x="358" y="268" font-size="11" fill="#5F5E5A">提前露馅 = 对手提前启动，战术全废</text>
+<rect x="358" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="296" font-size="11" fill="#993C1D">自检：同伴看你引拍，猜不出出球</text>
+<rect x="40" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="348" r="8" fill="#D85A30"/>
+<text x="60" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">击球点 · 才分家</text>
+<g stroke="#444441" stroke-width="2.5" fill="none" stroke-linecap="round">
+<line x1="100" y1="452" x2="92" y2="424"/>
+<ellipse cx="90" cy="416" rx="4" ry="8" transform="rotate(-15 90 416)" stroke-width="2"/>
+<line x1="190" y1="452" x2="178" y2="426"/>
+<ellipse cx="175" cy="418" rx="4" ry="8" transform="rotate(-30 175 418)" stroke-width="2"/>
+<line x1="280" y1="452" x2="264" y2="430"/>
+<ellipse cx="260" cy="422" rx="4" ry="8" transform="rotate(-50 260 422)" stroke-width="2"/>
+</g>
+<circle cx="84" cy="406" r="2.5" fill="#D85A30"/>
+<circle cx="169" cy="408" r="2.5" fill="#D85A30"/>
+<circle cx="253" cy="412" r="2.5" fill="#D85A30"/>
+<path d="M84,402 Q82,384 90,372" fill="none" stroke="#888780" stroke-width="1.2" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<path d="M168,404 Q158,388 160,376" fill="none" stroke="#888780" stroke-width="1.2" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<path d="M252,408 Q240,394 240,382" fill="none" stroke="#888780" stroke-width="1.2" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<text x="95" y="478" font-size="11" fill="#2C2C2A" text-anchor="middle">高远 · 向上送</text>
+<text x="185" y="478" font-size="11" fill="#2C2C2A" text-anchor="middle">吊 · 向下切</text>
+<text x="272" y="478" font-size="11" fill="#993C1D" text-anchor="middle">杀 · 向前下压</text>
+<text x="54" y="516" font-size="11" fill="#5F5E5A">击球点：高远最靠上，吊稍低在身前，杀最靠前</text>
+<text x="54" y="532" font-size="11" fill="#5F5E5A">拍面：高远平、吊斜切、杀下压 &lt;90°</text>
+<rect x="52" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="560" font-size="11" fill="#993C1D">自检：三种出球落点都能稳定控制</text>
+<rect x="346" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="348" r="8" fill="#D85A30"/>
+<text x="366" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="380" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">最常见的露馅点</text>
+<g font-size="12" fill="#2C2C2A">
+<circle cx="372" cy="396" r="4" fill="#D85A30"/>
+<text x="386" y="400">吊球：引拍不自觉变小</text>
+<circle cx="372" cy="432" r="4" fill="#D85A30"/>
+<text x="386" y="436">杀球：提前后仰、咬牙发力</text>
+<circle cx="372" cy="468" r="4" fill="#D85A30"/>
+<text x="386" y="472">出球前眼神先看落点</text>
+</g>
+<text x="358" y="516" font-size="11" fill="#5F5E5A">检验法：同伴站对面看 10 次准备</text>
+<text x="358" y="532" font-size="11" fill="#5F5E5A">猜中出球 ≤5 次（接近乱猜）= 一致性合格</text>
+<rect x="358" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="560" font-size="11" fill="#993C1D">自检：一致性过关，再谈落点变化</text>
+</svg>

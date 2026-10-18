@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 596" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>单双打站位与轮转图解</title>
+<desc>四张场地俯视：单打中心站位、双打前后进攻站位、双打左右防守站位、攻防转换的之字轮转。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">单双打站位与轮转 · 场地俯视</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">上方为对方场地 · 双打站位口诀：进攻前后站，防守左右站，谁挡网谁后退</text>
+<rect x="40" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">单打 · 中心站位</text>
+<rect x="110" y="100" width="154" height="140" fill="#FDFCF9" stroke="#444441" stroke-width="1.5"/>
+<line x1="110" y1="110" x2="264" y2="110" stroke="#444441" stroke-width="3"/>
+<line x1="110" y1="140" x2="264" y2="140" stroke="#B4B2A9" stroke-width="1"/>
+<line x1="110" y1="206" x2="264" y2="206" stroke="#B4B2A9" stroke-width="1"/>
+<line x1="187" y1="110" x2="187" y2="240" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="187" cy="182" r="5" fill="#993C1D"/>
+<circle cx="187" cy="182" r="34" fill="none" stroke="#D85A30" stroke-width="1.2" stroke-dasharray="4 3"/>
+<g stroke="#888780" stroke-width="1.2" stroke-dasharray="3 2" fill="none">
+<line x1="187" y1="182" x2="150" y2="130" marker-end="url(#arrow)"/>
+<line x1="187" y1="182" x2="226" y2="130" marker-end="url(#arrow)"/>
+<line x1="187" y1="182" x2="146" y2="224" marker-end="url(#arrow)"/>
+<line x1="187" y1="182" x2="230" y2="224" marker-end="url(#arrow)"/>
+</g>
+<text x="54" y="252" font-size="11" fill="#5F5E5A">中心偏后一点：照顾后场，网前靠弓箭步补</text>
+<text x="54" y="268" font-size="11" fill="#5F5E5A">每拍打完回中心，四角距离最均衡</text>
+<rect x="52" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="296" font-size="11" fill="#993C1D">自检：任何一角都能两步内到位</text>
+<rect x="346" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="84" r="8" fill="#D85A30"/>
+<text x="366" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="380" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">双打 · 前后进攻</text>
+<rect x="416" y="100" width="154" height="140" fill="#FDFCF9" stroke="#444441" stroke-width="1.5"/>
+<line x1="416" y1="110" x2="570" y2="110" stroke="#444441" stroke-width="3"/>
+<line x1="416" y1="140" x2="570" y2="140" stroke="#B4B2A9" stroke-width="1"/>
+<line x1="416" y1="206" x2="570" y2="206" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="493" cy="128" r="5" fill="#D85A30"/>
+<text x="503" y="124" font-size="10.5" fill="#993C1D">前场封网</text>
+<circle cx="493" cy="212" r="5" fill="#444441"/>
+<text x="503" y="208" font-size="10.5" fill="#2C2C2A">后场进攻</text>
+<line x1="493" y1="134" x2="493" y2="206" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="358" y="252" font-size="11" fill="#5F5E5A">后场杀吊结合，前场举拍封网做球</text>
+<text x="358" y="268" font-size="11" fill="#5F5E5A">前场不回头、后场不抢网前球</text>
+<rect x="358" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="296" font-size="11" fill="#993C1D">自检：前后两人不抢同一个球</text>
+<rect x="40" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="348" r="8" fill="#D85A30"/>
+<text x="60" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">双打 · 左右防守</text>
+<rect x="110" y="366" width="154" height="140" fill="#FDFCF9" stroke="#444441" stroke-width="1.5"/>
+<line x1="110" y1="376" x2="264" y2="376" stroke="#444441" stroke-width="3"/>
+<line x1="187" y1="376" x2="187" y2="506" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="152" cy="446" r="5" fill="#444441"/>
+<circle cx="222" cy="446" r="5" fill="#444441"/>
+<line x1="152" y1="452" x2="152" y2="496" stroke="#D85A30" stroke-width="1" stroke-dasharray="3 2"/>
+<line x1="222" y1="452" x2="222" y2="496" stroke="#D85A30" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="128" y="430" font-size="10.5" fill="#2C2C2A">左半场</text>
+<text x="202" y="430" font-size="10.5" fill="#2C2C2A">右半场</text>
+<text x="54" y="516" font-size="11" fill="#5F5E5A">对方进攻时各守半边，中线球约定谁来接</text>
+<text x="54" y="532" font-size="11" fill="#5F5E5A">站位稍靠前：杀球下落快，退一步就晚了</text>
+<rect x="52" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="560" font-size="11" fill="#993C1D">自检：中线球不撞拍、不互让</text>
+<rect x="346" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="348" r="8" fill="#D85A30"/>
+<text x="366" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="380" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">轮转 · 谁挡网谁后退</text>
+<rect x="416" y="366" width="154" height="140" fill="#FDFCF9" stroke="#444441" stroke-width="1.5"/>
+<line x1="416" y1="376" x2="570" y2="376" stroke="#444441" stroke-width="3"/>
+<line x1="416" y1="406" x2="570" y2="406" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="460" cy="394" r="5" fill="#D85A30"/>
+<circle cx="528" cy="470" r="5" fill="#444441"/>
+<path d="M456,400 Q440,430 446,460" fill="none" stroke="#D85A30" stroke-width="1.8" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<path d="M524,462 Q492,440 468,406" fill="none" stroke="#888780" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<text x="424" y="430" font-size="10" fill="#993C1D">挡网者退</text>
+<text x="500" y="430" font-size="10" fill="#5F5E5A">同伴补后</text>
+<text x="358" y="516" font-size="11" fill="#5F5E5A">前场队员挡网后顺势后撤防守，后场同伴补位</text>
+<text x="358" y="532" font-size="11" fill="#5F5E5A">之字形斜线跑，不直线交叉撞车</text>
+<rect x="358" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="560" font-size="11" fill="#993C1D">自检：连续多拍攻防转换不抢位</text>
+</svg>

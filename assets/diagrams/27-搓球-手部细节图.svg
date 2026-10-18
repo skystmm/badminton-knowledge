@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 596" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>搓球手部细节图解</title>
+<desc>四张特写：搓球专用握拍、手指捻动搓切、拍面 45 度与上半部触球、击球点在网顶上方 10-30 厘米。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="32" font-size="15" font-weight="500" fill="#2C2C2A">搓球 · 手部细节图解</text>
+<text x="40" y="50" font-size="12" fill="#5F5E5A">标准动作示意（原理简化）· 搓球的手感和发力握法不是一回事</text>
+<rect x="40" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="84" r="8" fill="#D85A30"/>
+<text x="60" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">搓球握拍 · 留捻动空间</text>
+<rect x="179" y="86" width="16" height="130" rx="7" transform="rotate(28 187 151)" fill="#6B655B" stroke="#444441" stroke-width="1.5"/>
+<rect x="164" y="152" width="48" height="54" rx="15" transform="rotate(28 188 179)" fill="#FDFCF9" stroke="#444441" stroke-width="2.5"/>
+<g fill="#FFFFFF" stroke="#444441" stroke-width="2">
+<rect x="178" y="133" width="28" height="11" rx="5.5" transform="rotate(28 192 138)"/>
+<rect x="185" y="121" width="28" height="11" rx="5.5" transform="rotate(28 199 126)"/>
+<rect x="192" y="109" width="28" height="11" rx="5.5" transform="rotate(28 206 114)"/>
+<rect x="200" y="95" width="30" height="11" rx="5.5" transform="rotate(28 215 100)"/>
+<rect x="158" y="160" width="28" height="13" rx="6.5" transform="rotate(-30 172 166)"/>
+</g>
+<ellipse cx="180" cy="188" rx="12" ry="8" transform="rotate(28 180 188)" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="68" y="118" font-size="11" fill="#5F5E5A">食指稍前伸</text>
+<line x1="124" y1="114" x2="202" y2="102" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="244" y="130" font-size="11" fill="#5F5E5A">三指轻握</text>
+<line x1="248" y1="134" x2="208" y2="142" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="60" y="176" font-size="11" fill="#5F5E5A">拇指斜贴内侧小棱</text>
+<line x1="144" y1="172" x2="160" y2="167" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="210" y="206" font-size="11" fill="#993C1D">拍柄稍离掌心</text>
+<line x1="212" y1="200" x2="192" y2="192" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="54" y="252" font-size="11" fill="#5F5E5A">和发力握法不同：一切为了给手指腾空间</text>
+<text x="54" y="268" font-size="11" fill="#5F5E5A">握死了就没有「捻」，球不会转</text>
+<rect x="52" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="296" font-size="11" fill="#993C1D">自检：捻拍时拍柄能在掌心微动</text>
+<rect x="346" y="62" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="84" r="8" fill="#D85A30"/>
+<text x="366" y="84" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="380" y="88" font-size="12.5" font-weight="500" fill="#2C2C2A">捻切 · 让球翻滚</text>
+<rect x="470" y="176" width="22" height="18" rx="7" transform="rotate(-14 481 185)" fill="#FDFCF9" stroke="#444441" stroke-width="2.5"/>
+<g fill="#FFFFFF" stroke="#444441" stroke-width="2">
+<rect x="454" y="162" width="22" height="8" rx="4" transform="rotate(-14 465 166)"/>
+<rect x="460" y="170" width="22" height="8" rx="4" transform="rotate(-14 471 174)"/>
+</g>
+<line x1="476" y1="180" x2="434" y2="142" stroke="#444441" stroke-width="3"/>
+<ellipse cx="428" cy="136" rx="5" ry="10" transform="rotate(-38 428 136)" fill="none" stroke="#444441" stroke-width="2"/>
+<path d="M422,130 L410,120 L412,132 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="421" cy="131" r="3.5" fill="#D85A30"/>
+<path d="M438,148 Q426,160 432,174" fill="none" stroke="#D85A30" stroke-width="1.8" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<path d="M419,142 Q408,168 413,198" fill="none" stroke="#888780" stroke-width="1.5" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<g stroke="#B4B2A9" stroke-width="1" fill="none">
+<path d="M404,150 q4,3 8,2"/><path d="M408,164 q4,3 8,2"/><path d="M411,178 q4,3 8,2"/>
+</g>
+<text x="380" y="120" font-size="11" fill="#993C1D">捻动方向</text>
+<line x1="420" y1="122" x2="432" y2="146" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="520" y="140" font-size="11" fill="#5F5E5A">搓切球托</text>
+<text x="520" y="156" font-size="11" fill="#5F5E5A">右下底部</text>
+<line x1="520" y1="160" x2="490" y2="178" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="358" y="252" font-size="11" fill="#5F5E5A">拇指食指夹拍小幅捻动，触球短促</text>
+<text x="358" y="268" font-size="11" fill="#5F5E5A">球托被「搓」出旋转，过网后翻滚下坠</text>
+<rect x="358" y="278" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="296" font-size="11" fill="#993C1D">自检：肉眼能看清球在翻滚</text>
+<rect x="40" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="348" r="8" fill="#D85A30"/>
+<text x="60" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="74" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">拍面 45° · 用上半部搓</text>
+<ellipse cx="150" cy="440" rx="52" ry="66" fill="#FDFCF9" stroke="#444441" stroke-width="3.5"/>
+<ellipse cx="150" cy="410" rx="44" ry="30" fill="#FAECE7" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="5 3"/>
+<line x1="120" y1="392" x2="120" y2="488" stroke="#D3D1C7" stroke-width="1"/>
+<line x1="180" y1="392" x2="180" y2="488" stroke="#D3D1C7" stroke-width="1"/>
+<line x1="104" y1="418" x2="196" y2="418" stroke="#D3D1C7" stroke-width="1"/>
+<line x1="100" y1="440" x2="200" y2="440" stroke="#D3D1C7" stroke-width="1"/>
+<line x1="104" y1="462" x2="196" y2="462" stroke="#D3D1C7" stroke-width="1"/>
+<path d="M151,409 L140,398 L142,410 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="150" cy="410" r="3.5" fill="#D85A30"/>
+<text x="216" y="404" font-size="11" font-weight="500" fill="#993C1D">上半部触球</text>
+<line x1="214" y1="408" x2="194" y2="410" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="216" y="440" font-size="11" fill="#5F5E5A">下半部容易</text>
+<text x="216" y="456" font-size="11" fill="#5F5E5A">搓空或搓厚</text>
+<path d="M236,486 A34,34 0 0 1 262,468" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="238" y="500" font-size="11" fill="#993C1D">拍面约 45°</text>
+<text x="54" y="516" font-size="11" fill="#5F5E5A">拍面太正球往前冲，太躺球不过网</text>
+<text x="54" y="532" font-size="11" fill="#5F5E5A">45° 左右 + 拍框上半部 = 又转又贴网</text>
+<rect x="52" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="560" font-size="11" fill="#993C1D">自检：10 球里 9 球用上半部触球</text>
+<rect x="346" y="326" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="366" cy="348" r="8" fill="#D85A30"/>
+<text x="366" y="348" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="380" y="352" font-size="12.5" font-weight="500" fill="#2C2C2A">击球点 · 网顶上方</text>
+<line x1="366" y1="440" x2="620" y2="440" stroke="#888780" stroke-width="3"/>
+<line x1="366" y1="440" x2="366" y2="486" stroke="#B4B2A9" stroke-width="2"/>
+<line x1="620" y1="440" x2="620" y2="486" stroke="#B4B2A9" stroke-width="2"/>
+<line x1="440" y1="410" x2="440" y2="440" stroke="#D85A30" stroke-width="1.5"/>
+<line x1="434" y1="410" x2="446" y2="410" stroke="#D85A30" stroke-width="1.5"/>
+<line x1="440" y1="380" x2="440" y2="380" stroke="#D85A30" stroke-width="1.5"/>
+<line x1="434" y1="380" x2="446" y2="380" stroke="#D85A30" stroke-width="1.5"/>
+<line x1="440" y1="380" x2="440" y2="440" stroke="#D85A30" stroke-width="1" stroke-dasharray="3 2"/>
+<circle cx="470" cy="396" r="8" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/>
+<path d="M471,395 L460,384 L462,396 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/>
+<circle cx="470" cy="396" r="3" fill="#D85A30"/>
+<path d="M468,406 Q460,426 464,444" fill="none" stroke="#888780" stroke-width="1.5" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<text x="448" y="374" font-size="11" font-weight="500" fill="#993C1D">10-30cm</text>
+<text x="500" y="424" font-size="11" fill="#5F5E5A">越高越主动</text>
+<text x="366" y="516" font-size="11" fill="#5F5E5A">击球点每高 10cm，对手难受一分</text>
+<text x="366" y="532" font-size="11" fill="#5F5E5A">等球掉下来再搓 = 把主动让回去</text>
+<rect x="358" y="542" width="270" height="28" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="368" y="560" font-size="11" fill="#993C1D">自检：搓球最高点在自己一侧</text>
+</svg>
