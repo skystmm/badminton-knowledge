@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 468" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>网前四技术选择谱系图</title>
+<desc>球过网后的高度决定出口：高→扑/推，平→搓/勾，低→挑。四项共享同一举拍准备。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="44" font-size="15" font-weight="500" fill="#2C2C2A">网前四技术选择谱系图</text>
+<text x="40" y="62" font-size="12" fill="#5F5E5A">一句话选型 · 球位决定出口 · 准备动作不暴露选择</text>
+
+<rect x="40" y="88" width="294" height="96" rx="10" fill="#FFFFFF" stroke="#D85A30" stroke-width="1"/>
+<text x="56" y="110" font-size="13" font-weight="500" fill="#D85A30">球高（网顶 10-30cm 上方）</text>
+<circle cx="280" cy="106" r="3.4" fill="#D85A30"/>
+<text x="56" y="132" font-size="12" fill="#2C2C2A">· 近网冒高 →</text><text x="150" y="132" font-size="12" font-weight="500" fill="#2C2C2A">扑球</text><text x="184" y="132" font-size="11" fill="#5F5E5A">（最高点短叩下压）</text>
+<text x="56" y="154" font-size="12" fill="#2C2C2A">· 高但离网远 →</text><text x="164" y="154" font-size="12" font-weight="500" fill="#2C2C2A">推球</text><text x="198" y="154" font-size="11" fill="#5F5E5A">（高点捻拨平推压底线）</text>
+<text x="56" y="174" font-size="10" fill="#888780">扑与推的界线：够不够压得下拍面</text>
+
+<rect x="40" y="196" width="294" height="96" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="218" font-size="13" font-weight="500" fill="#2C2C2A">球平（与网带同高、近网）</text>
+<text x="56" y="240" font-size="12" fill="#2C2C2A">· 主动平稳 →</text><text x="144" y="240" font-size="12" font-weight="500" fill="#2C2C2A">搓球</text><text x="178" y="240" font-size="11" fill="#5F5E5A">（已入库，翻滚贴网）</text>
+<text x="56" y="262" font-size="12" fill="#2C2C2A">· 想变线骗人 →</text><text x="164" y="262" font-size="12" font-weight="500" fill="#2C2C2A">勾球</text><text x="198" y="262" font-size="11" fill="#5F5E5A">（捻切送对角）</text>
+<text x="56" y="282" font-size="10" fill="#888780">准备与搓球完全一致，最后才变拍</text>
+
+<rect x="40" y="304" width="294" height="96" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="326" font-size="13" font-weight="500" fill="#2C2C2A">球低（下降中或已停转）</text>
+<text x="56" y="348" font-size="12" fill="#2C2C2A">· 被动解困 →</text><text x="150" y="348" font-size="12" font-weight="500" fill="#2C2C2A">挑球</text><text x="184" y="348" font-size="11" fill="#5F5E5A">（高弧送底线）</text>
+<text x="56" y="370" font-size="12" fill="#2C2C2A">· 足够贴网可以 →</text><text x="180" y="370" font-size="12" font-weight="500" fill="#2C2C2A">放网</text><text x="214" y="370" font-size="11" fill="#5F5E5A">（另一出口，后续入库）</text>
+<text x="56" y="390" font-size="10" fill="#888780">旋转中必须等停转、毛朝下再打</text>
+
+<rect x="352" y="88" width="294" height="312" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="368" y="110" font-size="13" font-weight="500" fill="#2C2C2A">四技术速查</text>
+<line x1="368" y1="122" x2="630" y2="122" stroke="#D3D1C7" stroke-width="1"/>
+<text x="368" y="140" font-size="10" font-weight="500" fill="#888780">技术 / 击球点 / 主力 / 落点 / 性质</text>
+<line x1="368" y1="148" x2="630" y2="148" stroke="#D3D1C7" stroke-width="1"/>
+<text x="368" y="168" font-size="12" font-weight="500" fill="#D85A30">推</text>
+<text x="398" y="168" font-size="11" fill="#5F5E5A">高点 · 食指拇指捻拨 · 底线两角 · 进攻</text>
+<text x="368" y="192" font-size="12" font-weight="500" fill="#D85A30">勾</text>
+<text x="398" y="192" font-size="11" fill="#5F5E5A">近网高点 · 腕捻切 · 对角网前 · 变线</text>
+<text x="368" y="216" font-size="12" font-weight="500" fill="#D85A30">扑</text>
+<text x="398" y="216" font-size="11" fill="#5F5E5A">最高点 · 腕闪轻叩 · 中前场落地 · 终结</text>
+<text x="368" y="240" font-size="12" font-weight="500" fill="#D85A30">挑</text>
+<text x="398" y="240" font-size="11" fill="#5F5E5A">低点 · 前臂旋转 · 高弧到底线 · 防守</text>
+<line x1="368" y1="260" x2="630" y2="260" stroke="#D3D1C7" stroke-width="1"/>
+<text x="368" y="284" font-size="12" font-weight="500" fill="#2C2C2A">一致性的价值</text>
+<text x="368" y="304" font-size="11" fill="#5F5E5A">同一举拍（弓箭步+拍头肩高+拍面半朝网），</text>
+<text x="368" y="322" font-size="11" fill="#5F5E5A">对手必须守住 4 种出口 = 防不胜防；</text>
+<text x="368" y="340" font-size="11" fill="#5F5E5A">准备一变样，就损失一半威力。</text>
+<rect x="364" y="358" width="270" height="34" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="374" y="373" font-size="11" fill="#993C1D">自检：录像看开始 0.3 秒，</text>
+<text x="374" y="387" font-size="11" fill="#993C1D">分不出你出哪一个</text>
+
+<rect x="40" y="416" width="606" height="34" rx="8" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="437" font-size="12" fill="#5F5E5A" dominant-baseline="central">规则红线：球过网带才可击；击球全程拍触网即违例。</text>
+</svg>

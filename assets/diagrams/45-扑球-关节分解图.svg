@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 468" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>扑球四步关节分解图</title>
+<desc>侧面视角展示扑球四步：发现机会、一步跨出、最高点轻叩、急停防扑。短促下压不挥大臂，不触网。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<text x="40" y="44" font-size="15" font-weight="500" fill="#2C2C2A">扑球四步关节分解图</text>
+<text x="40" y="62" font-size="12" fill="#5F5E5A">侧面视角 · 右手持拍 · 图左为网</text>
+<circle cx="436" cy="40" r="4" fill="#D85A30"/>
+<text x="446" y="44" font-size="12" fill="#5F5E5A">关节位置：肩肘腕髋膝踝</text>
+<rect x="40" y="76" width="145" height="296" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="60" cy="98" r="9" fill="#D85A30"/>
+<text x="60" y="98" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="74" y="98" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">扑机会出现</text>
+<line x1="54" y1="235" x2="171" y2="235" stroke="#D3D1C7" stroke-width="1"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<circle cx="165" cy="120" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<path d="M165,141 L165,183"/>
+<path d="M165,183 L149,208 L141,233 L129,233"/>
+<path d="M165,183 L181,208 L189,233 L201,233"/>
+<path d="M165,141 L153,158 L147,172"/>
+<line x1="147" y1="172" x2="141" y2="188"/>
+<path d="M165,141 L177,156 L185,168"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="165" cy="141" r="3.2"/>
+<circle cx="153" cy="158" r="3.2"/>
+<circle cx="147" cy="171" r="3.2"/>
+<circle cx="177" cy="156" r="3.2"/>
+<circle cx="185" cy="168" r="3.2"/>
+<circle cx="165" cy="183" r="3.2"/>
+<circle cx="149" cy="208" r="3.2"/>
+<circle cx="181" cy="208" r="3.2"/>
+<circle cx="141" cy="233" r="3.2"/>
+<circle cx="189" cy="233" r="3.2"/>
+</g>
+<path d="M129,139 L140,128 L138,140 Z" fill="#D3D1C7" stroke="#B4B2A9" stroke-width="1"/><circle cx="128" cy="140" r="3" fill="#D85A30"/><text x="115" y="122" font-size="11" fill="#888780">弱回球冒高</text>
+<text x="54" y="263" font-size="11" fill="#5F5E5A">对方回球过网弧度高</text>
+<text x="54" y="282" font-size="11" fill="#5F5E5A">球网带略上即是机会</text>
+<text x="54" y="301" font-size="11" fill="#5F5E5A">立刻冲刺上网不犹豫</text>
+<rect x="52" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+
+<rect x="52" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="341" font-size="11" fill="#993C1D">自检：一看到</text>
+<text x="62" y="355" font-size="11" fill="#993C1D">冒高就冲</text>
+<rect x="191" y="76" width="145" height="296" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="211" cy="98" r="9" fill="#D85A30"/>
+<text x="211" y="98" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="225" y="98" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">一步跨出</text>
+<line x1="205" y1="235" x2="322" y2="235" stroke="#D3D1C7" stroke-width="1"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<circle cx="316" cy="116" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<path d="M316,133 L322,178"/>
+<path d="M322,178 L300,200 L291,228 L279,229"/>
+<path d="M322,178 L342,202 L354,228 L366,226"/>
+<path d="M316,133 L334,144 L350,152"/>
+<line x1="350" y1="152" x2="364" y2="156"/>
+<path d="M318,133 L334,146 L344,156"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="316" cy="133" r="3.2"/>
+<circle cx="334" cy="144" r="3.2"/>
+<circle cx="350" cy="152" r="3.2"/>
+<circle cx="334" cy="146" r="3.2"/>
+<circle cx="344" cy="156" r="3.2"/>
+<circle cx="322" cy="178" r="3.2"/>
+<circle cx="300" cy="200" r="3.2"/>
+<circle cx="342" cy="202" r="3.2"/>
+<circle cx="291" cy="228" r="3.2"/>
+<circle cx="354" cy="228" r="3.2"/>
+</g>
+<ellipse cx="366" cy="154" rx="5" ry="10" transform="rotate(52 366 154)" stroke-width="2"/><line x1="362" y1="118" x2="362" y2="168" stroke="#B4B2A9" stroke-width="2"/><line x1="358" y1="118" x2="366" y2="118" stroke="#888780" stroke-width="2"/><text x="368" y="122" font-size="10" fill="#888780">网</text><text x="264" y="252" font-size="11" fill="#5F5E5A">蹬地跨出</text>
+<text x="205" y="263" font-size="11" fill="#5F5E5A">蹬地一步跨向网前</text>
+<text x="205" y="282" font-size="11" fill="#5F5E5A">拍举起先于步</text>
+<text x="205" y="301" font-size="11" fill="#5F5E5A">肘微弯不僵直</text>
+<rect x="203" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+
+<rect x="203" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="213" y="341" font-size="11" fill="#993C1D">自检：拍先举</text>
+<text x="213" y="355" font-size="11" fill="#993C1D">步再跨</text>
+<rect x="342" y="76" width="145" height="296" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="362" cy="98" r="9" fill="#D85A30"/>
+<text x="362" y="98" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="376" y="98" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">最高点轻叩</text>
+<line x1="356" y1="235" x2="473" y2="235" stroke="#D3D1C7" stroke-width="1"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<circle cx="467" cy="112" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<path d="M467,129 L472,180"/>
+<path d="M472,180 L452,200 L443,226 L431,228"/>
+<path d="M472,180 L490,203 L502,228 L514,226"/>
+<path d="M467,129 L452,118 L438,106"/>
+<line x1="438" y1="106" x2="424" y2="98"/>
+<path d="M469,129 L484,140 L494,150"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="467" cy="129" r="3.2"/>
+<circle cx="452" cy="118" r="3.2"/>
+<circle cx="438" cy="106" r="3.2"/>
+<circle cx="484" cy="140" r="3.2"/>
+<circle cx="494" cy="150" r="3.2"/>
+<circle cx="472" cy="180" r="3.2"/>
+<circle cx="452" cy="200" r="3.2"/>
+<circle cx="490" cy="203" r="3.2"/>
+<circle cx="443" cy="226" r="3.2"/>
+<circle cx="502" cy="228" r="3.2"/>
+</g>
+<ellipse cx="419" cy="99" rx="5" ry="10" transform="rotate(-38 419 99)" stroke-width="2"/><line x1="362" y1="118" x2="362" y2="168" stroke="#B4B2A9" stroke-width="2"/><line x1="358" y1="118" x2="366" y2="118" stroke="#888780" stroke-width="2"/><text x="368" y="122" font-size="10" fill="#888780">网</text><circle cx="410" cy="96" r="7" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/><circle cx="410" cy="96" r="3" fill="#D85A30"/><path d="M410,96 L418,128 L430,164 L442,200" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/><text x="470" y="120" font-size="10" fill="#D85A30">向下短叩</text>
+<text x="356" y="263" font-size="11" fill="#5F5E5A">腕背屈→击球瞬间闪回</text>
+<text x="356" y="282" font-size="11" fill="#5F5E5A">短促轻叩像侧向扫</text>
+<text x="356" y="301" font-size="11" fill="#5F5E5A">球一过网带立刻打</text>
+<rect x="354" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+
+<rect x="354" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="364" y="341" font-size="11" fill="#993C1D">自检：不触网</text>
+<text x="364" y="355" font-size="11" fill="#993C1D">不过网带击球</text>
+<rect x="493" y="76" width="145" height="296" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<circle cx="513" cy="98" r="9" fill="#D85A30"/>
+<text x="513" y="98" font-size="11" font-weight="500" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="527" y="98" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">急停防扑</text>
+<line x1="507" y1="235" x2="624" y2="235" stroke="#D3D1C7" stroke-width="1"/>
+<g stroke="#444441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<circle cx="618" cy="122" r="11" fill="#FFFFFF" stroke="#444441" stroke-width="3"/>
+<path d="M618,139 L621,180"/>
+<path d="M621,180 L605,205 L597,231 L585,231"/>
+<path d="M621,180 L635,203 L643,225 L653,221"/>
+<path d="M618,139 L605,156 L599,168"/>
+<line x1="599" y1="168" x2="593" y2="184"/>
+<path d="M620,139 L632,152 L639,162"/>
+</g>
+<g fill="#D85A30" stroke="#FFFFFF" stroke-width="1">
+<circle cx="618" cy="139" r="3.2"/>
+<circle cx="605" cy="156" r="3.2"/>
+<circle cx="599" cy="168" r="3.2"/>
+<circle cx="632" cy="152" r="3.2"/>
+<circle cx="639" cy="162" r="3.2"/>
+<circle cx="621" cy="180" r="3.2"/>
+<circle cx="605" cy="205" r="3.2"/>
+<circle cx="635" cy="203" r="3.2"/>
+<circle cx="597" cy="231" r="3.2"/>
+<circle cx="643" cy="225" r="3.2"/>
+</g>
+<ellipse cx="591" cy="190" rx="5" ry="10" transform="rotate(12 591 190)" stroke-width="2"/>
+<text x="507" y="263" font-size="11" fill="#5F5E5A">小挥幅随挥（不冲网）</text>
+<text x="507" y="282" font-size="11" fill="#5F5E5A">保持网前架拍等下拍</text>
+<text x="507" y="301" font-size="11" fill="#5F5E5A">注意拍框不进网带上</text>
+<rect x="505" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+
+<rect x="505" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="515" y="341" font-size="11" fill="#993C1D">自检：随挥小</text>
+<text x="515" y="355" font-size="11" fill="#993C1D">身体不进网</text>
+<rect x="40" y="384" width="600" height="64" rx="10" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="408" font-size="13" font-weight="500" fill="#2C2C2A" dominant-baseline="central">关键顺序</text>
+<text x="56" y="428" font-size="12" fill="#5F5E5A" dominant-baseline="central">看冒高机会 → 拍先举步快跨 → 网带上最高点轻叩 → 小随挥不触网</text>
+</svg>

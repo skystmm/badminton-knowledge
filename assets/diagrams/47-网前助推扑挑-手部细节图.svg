@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 468" width="100%" role="img" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif">
+<title>网前四技术手部细节图</title>
+<desc>四项技术的握拍松紧与手指发力特写：前三指工作后二指托拍；推=按门铃，勾=捻一下，扑=背屈闪回，挑=前臂旋转拇指顶压。</desc>
+<text x="40" y="44" font-size="15" font-weight="500" fill="#2C2C2A">网前四技术手部细节图</text>
+<text x="40" y="62" font-size="12" fill="#5F5E5A">握拍松紧是网前手感的开关：太紧=手指发力失效</text>
+<g>
+<rect x="40" y="80" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="104" font-size="13" font-weight="500" fill="#2C2C2A">通用握法：前三指工作 · 后二指托拍</text>
+<rect x="82" y="126" width="180" height="22" rx="11" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1"/>
+<text x="172" y="141" font-size="11" fill="#888780" text-anchor="middle">拍柄（俯视截面）</text>
+<g fill="#D85A30"><circle cx="100" cy="137" r="3.4"/><circle cx="130" cy="140" r="3.4"/><circle cx="160" cy="136" r="3.4"/><circle cx="200" cy="144" r="3"/><circle cx="222" cy="146" r="3"/></g>
+<text x="100" y="122" font-size="10" fill="#D85A30" text-anchor="middle">拇指 顶</text>
+<text x="130" y="166" font-size="10" fill="#D85A30" text-anchor="middle">食指 扣</text>
+<text x="160" y="122" font-size="10" fill="#D85A30" text-anchor="middle">中指 勾</text>
+<text x="200" y="164" font-size="10" fill="#888780" text-anchor="middle">无名指</text>
+<text x="226" y="164" font-size="10" fill="#888780" text-anchor="middle">小指</text>
+<text x="56" y="196" font-size="11" fill="#5F5E5A">· 掌心留空（能塞一根手指），给捻动腾空间</text>
+<text x="56" y="214" font-size="11" fill="#5F5E5A">· 触球前松、触球瞬间握紧、击完再松（松-紧-松）</text>
+<text x="56" y="232" font-size="11" fill="#5F5E5A">· 后二指只托重量不发力——它们一紧全手僵</text>
+<text x="56" y="250" font-size="11" fill="#5F5E5A">· 四项技术共用此基础，差异只在触球一瞬怎么动</text>
+<rect x="52" y="266" width="270" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<text x="62" y="280" font-size="11" fill="#993C1D">自检：颠球换握不低头；</text>
+<text x="62" y="294" font-size="11" fill="#993C1D">拍柄离掌心=手指有戏</text>
+</g>
+<g>
+<rect x="352" y="80" width="294" height="250" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="368" y="104" font-size="13" font-weight="500" fill="#2C2C2A">四技术触发动作一览</text>
+<circle cx="392" cy="150" r="4" fill="#D85A30"/><text x="404" y="154" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">推 · 「按门铃」</text>
+<text x="404" y="170" font-size="11" fill="#5F5E5A">食指第二关节前顶下扣，拇指对侧抵住，</text>
+<text x="404" y="186" font-size="11" fill="#5F5E5A">像按门铃一样捻出去，腕不翻不大臂</text>
+<circle cx="392" cy="206" r="4" fill="#D85A30"/><text x="404" y="210" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">勾 · 「捻一下」</text>
+<text x="404" y="226" font-size="11" fill="#5F5E5A">手腕小幅内收+拍面由内向外切，触球短促，</text>
+<text x="404" y="242" font-size="11" fill="#5F5E5A">准备动作与搓球完全一样</text>
+<circle cx="392" cy="262" r="4" fill="#D85A30"/><text x="404" y="266" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">扑 · 「背屈→闪回」</text>
+<text x="404" y="282" font-size="11" fill="#5F5E5A">先手腕背屈（半收拳）预拉伸，击球瞬间</text>
+<text x="404" y="298" font-size="11" fill="#5F5E5A">向前闪回+短促轻叩，侧向扫不要大力抡</text>
+<circle cx="392" cy="318" r="4" fill="#D85A30"/><text x="404" y="322" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">挑 · 「前臂旋转」</text>
+<text x="404" y="338" font-size="11" fill="#5F5E5A">正手前臂外旋带动+腕闪向前上；反手</text>
+<text x="404" y="354" font-size="11" fill="#5F5E5A">拇指顶压沿体侧上行推（不甩腕）</text>
+</g>
+</svg>
