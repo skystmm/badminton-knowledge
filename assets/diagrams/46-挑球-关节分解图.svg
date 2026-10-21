@@ -147,6 +147,14 @@
 <rect x="505" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
 <text x="515" y="341" font-size="11" fill="#993C1D">自检：拇指发力</text>
 <text x="515" y="355" font-size="11" fill="#993C1D">不用反手甩腕</text>
+    <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M154 196 Q144 190 138 186" stroke="#5F8A3C" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+    <path d="M296 208 Q286 204 278 198" stroke="#D85A30" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <path d="M444 184 Q432 176 422 168" stroke="#D85A30" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <path d="M420 160 Q430 120 452 96" stroke="#5F8A3C" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+    <path d="M640 200 L662 188" stroke="#D85A30" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+  </g>
+
 <rect x="40" y="384" width="600" height="64" rx="10" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
 <text x="56" y="408" font-size="13" font-weight="500" fill="#2C2C2A" dominant-baseline="central">关键顺序</text>
 <text x="56" y="428" font-size="12" fill="#5F5E5A" dominant-baseline="central">等球停转 → 低重心弓箭步 → 前臂旋转向上送 → 反手换握拇指顶压</text>

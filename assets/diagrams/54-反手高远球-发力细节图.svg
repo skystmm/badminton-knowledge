@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 430" width="100%" role="img" font-family="-apple-system,'PingFang SC','Hiragino Sans GB','Noto Sans SC','Microsoft YaHei',sans-serif">
+<title>反手高远球发力细节图</title><desc>顶肘支点、小臂外旋序列、拇指顶压点、空拍练习与常见错误。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<text x="40" y="44" font-size="15" font-weight="500" fill="#2C2C2A">反手高远球发力细节图</text>
+<text x="40" y="62" font-size="12" fill="#5F5E5A">顶肘支点、小臂外旋序列、拇指顶压点、空拍练习与常见错误。</text>
+<rect x="40" y="80" width="294" height="140" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="104" font-size="13" font-weight="500" fill="#2C2C2A">顶肘：肘尖朝上、高于肩</text>
+<circle cx="120" cy="150" r="10" fill="#FFF" stroke="#444441" stroke-width="2.5"/>
+<line x1="120" y1="160" x2="120" y2="194" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<polyline points="120,160 114,140 118,122" fill="none" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="126" cy="116" rx="4.5" ry="9" transform="rotate(8 126 116)" fill="none" stroke="#444441" stroke-width="2"/>
+<circle cx="114" cy="140" r="4.5" fill="none" stroke="#D85A30" stroke-width="1.6"/>
+<text x="150" y="150" font-size="11" fill="#5F5E5A">引拍时肘是最高点，</text>
+<text x="150" y="168" font-size="11" fill="#5F5E5A">拍头垂在背后；</text>
+<text x="150" y="186" font-size="11" fill="#5F5E5A">不顶肘=只用大臂抡。</text>
+<text x="150" y="206" font-size="11" fill="#993C1D">肘对球，挥出去才有支点</text>
+<rect x="352" y="80" width="294" height="140" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="368" y="104" font-size="13" font-weight="500" fill="#2C2C2A">小臂外旋：左下 → 右上</text>
+<line x1="400" y1="180" x2="422" y2="140" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="428" cy="136" rx="4.5" ry="9" transform="rotate(-40 428 136)" fill="none" stroke="#444441" stroke-width="2"/>
+<text x="414" y="206" font-size="11" fill="#5F5E5A" text-anchor="middle">引</text>
+<line x1="470" y1="180" x2="492" y2="152" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="498" cy="148" rx="4.5" ry="9" transform="rotate(10 498 148)" fill="none" stroke="#444441" stroke-width="2"/>
+<text x="484" y="206" font-size="11" fill="#5F5E5A" text-anchor="middle">挥</text>
+<line x1="540" y1="180" x2="562" y2="163" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="568" cy="159" rx="4.5" ry="9" transform="rotate(55 568 159)" fill="none" stroke="#444441" stroke-width="2"/>
+<text x="554" y="206" font-size="11" fill="#5F5E5A" text-anchor="middle">击</text>
+<path d="M430 150 Q468 126 500 142" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<text x="368" y="206" font-size="11" fill="#5F5E5A">像「反手打耳光」：先大臂后小臂，放松甩出。</text>
+<rect x="40" y="234" width="294" height="130" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="258" font-size="13" font-weight="500" fill="#2C2C2A">拇指顶压：力量最后一关</text>
+<polygon points="144.0,317.9 129.9,332.0 110.1,332.0 96.0,317.9 96.0,298.1 110.1,284.0 129.9,284.0 144.0,298.1" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.6"/>
+<path d="M118 282 q-24 -4 -16 18 q3 12 18 8" fill="none" stroke="#D85A30" stroke-width="4" stroke-linecap="round"/>
+<text x="70" y="278" font-size="10.5" fill="#D85A30">拇指顶住宽面</text>
+<path d="M150 300 q22 6 14 28" fill="none" stroke="#444441" stroke-width="3" stroke-linecap="round"/>
+<text x="186" y="292" font-size="11" fill="#5F5E5A">击球瞬间拇指</text>
+<text x="186" y="310" font-size="11" fill="#5F5E5A">向前顶压 + 手腕</text>
+<text x="186" y="328" font-size="11" fill="#5F5E5A">短促闪动。</text>
+<text x="186" y="350" font-size="11" fill="#993C1D">方向=拇指朝向</text>
+<rect x="352" y="234" width="294" height="130" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="368" y="258" font-size="13" font-weight="500" fill="#2C2C2A">空拍练习 + 错误对照</text>
+<text x="368" y="282" font-size="11.5" fill="#5A7A48">✓ 无拍「打耳光」空挥找顺序</text>
+<text x="368" y="300" font-size="11.5" fill="#5A7A48">✓ 持拍放松挥 200 次/天，挥出风声</text>
+<text x="368" y="322" font-size="11.5" fill="#C0522E">✗ 不顶肘只抡大臂（伤肩还近）</text>
+<text x="368" y="340" font-size="11.5" fill="#C0522E">✗ 不换握拍 / 点太后 / 全身绷紧</text>
+<rect x="40" y="378" width="606" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/><text x="50" y="395" font-size="11" fill="#993C1D">验收：多球反手高远 10 个 ≥6 个过对方后场发球线、落底线区</text><text x="50" y="409" font-size="11" fill="#993C1D">全程拇指顶压实拍，无一次正手握拍误打</text>
+</svg>
