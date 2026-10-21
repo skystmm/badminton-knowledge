@@ -104,7 +104,7 @@
 <circle cx="443" cy="226" r="3.2"/>
 <circle cx="502" cy="228" r="3.2"/>
 </g>
-<ellipse cx="419" cy="99" rx="5" ry="10" transform="rotate(-38 419 99)" stroke-width="2"/><line x1="362" y1="118" x2="362" y2="168" stroke="#B4B2A9" stroke-width="2"/><line x1="358" y1="118" x2="366" y2="118" stroke="#888780" stroke-width="2"/><text x="368" y="122" font-size="10" fill="#888780">网</text><circle cx="410" cy="96" r="7" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/><circle cx="410" cy="96" r="3" fill="#D85A30"/><path d="M410,96 L418,128 L430,164 L442,200" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/><text x="470" y="120" font-size="10" fill="#D85A30">向下短叩</text>
+<ellipse cx="419" cy="123" rx="5" ry="10" transform="rotate(-38 419 123)" stroke-width="2"/><line x1="362" y1="142" x2="362" y2="192" stroke="#B4B2A9" stroke-width="2"/><line x1="358" y1="142" x2="366" y2="142" stroke="#888780" stroke-width="2"/><text x="368" y="146" font-size="10" fill="#888780">网</text><circle cx="410" cy="120" r="7" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="3 2"/><circle cx="410" cy="120" r="3" fill="#D85A30"/><path d="M410,120 L418,152 L430,188 L442,224" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/><text x="392" y="218" font-size="10" fill="#D85A30">向下短叩</text>
 <text x="356" y="263" font-size="11" fill="#5F5E5A">腕背屈→击球瞬间闪回</text>
 <text x="356" y="282" font-size="11" fill="#5F5E5A">短促轻叩像侧向扫</text>
 <text x="356" y="301" font-size="11" fill="#5F5E5A">球一过网带立刻打</text>
@@ -148,6 +148,12 @@
 <rect x="505" y="322" width="121" height="36" rx="6" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
 <text x="515" y="341" font-size="11" fill="#993C1D">自检：随挥小</text>
 <text x="515" y="355" font-size="11" fill="#993C1D">身体不进网</text>
+    <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 128 Q142 144 138 156" stroke="#5F8A3C" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+    <path d="M294 190 Q298 178 302 168" stroke="#D85A30" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    
+  </g>
+
 <rect x="40" y="384" width="600" height="64" rx="10" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
 <text x="56" y="408" font-size="13" font-weight="500" fill="#2C2C2A" dominant-baseline="central">关键顺序</text>
 <text x="56" y="428" font-size="12" fill="#5F5E5A" dominant-baseline="central">看冒高机会 → 拍先举步快跨 → 网带上最高点轻叩 → 小随挥不触网</text>

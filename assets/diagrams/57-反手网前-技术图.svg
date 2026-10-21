@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 464" width="100%" role="img" font-family="-apple-system,'PingFang SC','Hiragino Sans GB','Noto Sans SC','Microsoft YaHei',sans-serif">
+<title>反手网前技术图</title><desc>反手挑/放/勾/扑的拇指顶压要点、共同准备与减三分劲原则。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<text x="40" y="44" font-size="15" font-weight="500" fill="#2C2C2A">反手网前技术图</text>
+<text x="40" y="62" font-size="12" fill="#5F5E5A">反手挑/放/勾/扑的拇指顶压要点、共同准备与减三分劲原则。</text>
+<rect x="40" y="80" width="294" height="138" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="106" font-size="13" font-weight="500" fill="#2C2C2A">反手挑</text>
+<text x="126" y="106" font-size="11" fill="#888780">低点解困</text>
+<polygon points="97.9,163.7 89.7,171.9 78.3,171.9 70.1,163.7 70.1,152.3 78.3,144.1 89.7,144.1 97.9,152.3" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.6"/>
+<path d="M82 142 q-18 -2 -12 14 q2 9 13 6" fill="none" stroke="#D85A30" stroke-width="3.5" stroke-linecap="round"/>
+<text x="56" y="138" font-size="11" fill="#D85A30">拇指顶压</text>
+<text x="128" y="142" font-size="11" fill="#5F5E5A">肘部架起，前臂向上推</text>
+<text x="128" y="162" font-size="11" fill="#5F5E5A">拇指顶压，送底线</text>
+<text x="128" y="182" font-size="11" fill="#5F5E5A">内挑对角 / 外挑直线</text>
+<rect x="352" y="80" width="294" height="138" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="368" y="106" font-size="13" font-weight="500" fill="#2C2C2A">反手放网</text>
+<text x="438" y="106" font-size="11" fill="#888780">贴网做球</text>
+<polygon points="409.9,163.7 401.7,171.9 390.3,171.9 382.1,163.7 382.1,152.3 390.3,144.1 401.7,144.1 409.9,152.3" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.6"/>
+<path d="M394 142 q-18 -2 -12 14 q2 9 13 6" fill="none" stroke="#D85A30" stroke-width="3.5" stroke-linecap="round"/>
+<text x="368" y="138" font-size="11" fill="#D85A30">拇指顶压</text>
+<text x="440" y="142" font-size="11" fill="#5F5E5A">拍面轻托球托下</text>
+<text x="440" y="162" font-size="11" fill="#5F5E5A">拇指食指捻动定力度</text>
+<text x="440" y="182" font-size="11" fill="#5F5E5A">过网即坠</text>
+<rect x="40" y="230" width="294" height="138" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="256" font-size="13" font-weight="500" fill="#2C2C2A">反手勾</text>
+<text x="126" y="256" font-size="11" fill="#888780">变对角</text>
+<polygon points="97.9,313.7 89.7,321.9 78.3,321.9 70.1,313.7 70.1,302.3 78.3,294.1 89.7,294.1 97.9,302.3" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.6"/>
+<path d="M82 292 q-18 -2 -12 14 q2 9 13 6" fill="none" stroke="#D85A30" stroke-width="3.5" stroke-linecap="round"/>
+<text x="56" y="288" font-size="11" fill="#D85A30">拇指顶压</text>
+<text x="128" y="292" font-size="11" fill="#5F5E5A">准备与反手放网一致</text>
+<text x="128" y="312" font-size="11" fill="#5F5E5A">触球一瞬捻拍斜送</text>
+<text x="128" y="332" font-size="11" fill="#5F5E5A">对角贴网</text>
+<rect x="352" y="230" width="294" height="138" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="368" y="256" font-size="13" font-weight="500" fill="#2C2C2A">反手扑</text>
+<text x="438" y="256" font-size="11" fill="#888780">高点终结</text>
+<polygon points="409.9,313.7 401.7,321.9 390.3,321.9 382.1,313.7 382.1,302.3 390.3,294.1 401.7,294.1 409.9,302.3" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.6"/>
+<path d="M394 292 q-18 -2 -12 14 q2 9 13 6" fill="none" stroke="#D85A30" stroke-width="3.5" stroke-linecap="round"/>
+<text x="368" y="288" font-size="11" fill="#D85A30">拇指顶压</text>
+<text x="440" y="292" font-size="11" fill="#5F5E5A">拍面直立短促顶压</text>
+<text x="440" y="312" font-size="11" fill="#5F5E5A">拇指顶、不收大臂</text>
+<text x="440" y="332" font-size="11" fill="#5F5E5A">不触网/不过网击球</text>
+<rect x="40" y="384" width="606" height="60" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="408" font-size="12.5" font-weight="500" fill="#2C2C2A" dominant-baseline="central">共同原则：动作幅度比正手更小——「网前到后场只有七米，网前减三分劲」</text>
+<text x="56" y="428" font-size="11.5" fill="#993C1D" dominant-baseline="central">力量唯一来源：拇指顶压 + 手指捻动，禁止甩手腕 · 验收：反手挑 10 个 ≥8 个落底线 1m 内</text>
+</svg>

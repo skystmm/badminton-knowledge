@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 464" width="100%" role="img" font-family="-apple-system,'PingFang SC','Hiragino Sans GB','Noto Sans SC','Microsoft YaHei',sans-serif">
+<title>正反手发球动作对比图</title><desc>正手发高远四步与反手发小球四步对比，含规则红线。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<text x="40" y="44" font-size="15" font-weight="500" fill="#2C2C2A">正反手发球动作对比图</text>
+<text x="40" y="62" font-size="12" fill="#5F5E5A">正手发高远四步与反手发小球四步对比，含规则红线。</text>
+<rect x="40" y="80" width="294" height="300" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<rect x="40" y="80" width="294" height="34" rx="10" fill="#F1EFE8"/>
+<text x="187" y="102" font-size="13.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">正手发高远球</text>
+<circle cx="62" cy="132" r="9" fill="#D85A30"/><text x="62" y="132" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="78" y="128" font-size="11.5" fill="#2C2C2A">侧身前后站，重心后脚</text>
+<circle cx="260" cy="124" r="7" fill="#FFF" stroke="#444441" stroke-width="2"/>
+<line x1="260" y1="131" x2="260" y2="150" stroke="#444441" stroke-width="2.2"/>
+<line x1="252" y1="150" x2="268" y2="150" stroke="#444441" stroke-width="2.2"/>
+<circle cx="62" cy="188" r="9" fill="#D85A30"/><text x="62" y="188" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="78" y="184" font-size="11.5" fill="#2C2C2A">持球松放体前腰下（不加旋）</text>
+<circle cx="260" cy="196" r="4" fill="none" stroke="#888780" stroke-width="1.4" stroke-dasharray="2 2"/>
+<path d="M260 190 Q260 196 260 196" stroke="#444441" stroke-width="1.6" fill="none"/>
+<circle cx="62" cy="244" r="9" fill="#D85A30"/><text x="62" y="244" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="78" y="240" font-size="11.5" fill="#2C2C2A">转体挥臂：自下向前上</text>
+<path d="M246 258 Q258 230 276 238" fill="none" stroke="#444441" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M250 252 Q262 238 272 242" fill="none" stroke="#D85A30" stroke-width="1.4" stroke-dasharray="3 2"/>
+<circle cx="62" cy="300" r="9" fill="#D85A30"/><text x="62" y="300" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="78" y="296" font-size="11.5" fill="#2C2C2A">手腕屈收击球托后下，随挥</text>
+<ellipse cx="256" cy="292" rx="4" ry="8" transform="rotate(30 256 292)" fill="none" stroke="#444441" stroke-width="2"/>
+<path d="M260 302 Q274 310 278 318" fill="none" stroke="#888780" stroke-width="1.3" stroke-dasharray="3 3" marker-end="url(#arrow)"/>
+<text x="56" y="366" font-size="11" fill="#993C1D">目标：高而远，落底线区，下落接近垂直</text>
+<rect x="352" y="80" width="294" height="300" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<rect x="352" y="80" width="294" height="34" rx="10" fill="#F1EFE8"/>
+<text x="499" y="102" font-size="13.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">反手发小球（双打主流）</text>
+<circle cx="374" cy="132" r="9" fill="#D85A30"/><text x="374" y="132" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="390" y="128" font-size="11.5" fill="#2C2C2A">反手握拍、拍框向后</text>
+<rect x="562" y="120" width="20" height="22" rx="4" fill="none" stroke="#444441" stroke-width="2" transform="rotate(-8 572 132)"/>
+<circle cx="374" cy="188" r="9" fill="#D85A30"/><text x="374" y="188" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="390" y="184" font-size="11.5" fill="#2C2C2A">持球于拍前，球托对拍面</text>
+<circle cx="564" cy="188" r="4.5" fill="none" stroke="#444441" stroke-width="1.8"/>
+<rect x="576" y="180" width="12" height="16" rx="3" fill="none" stroke="#D85A30" stroke-width="1.8"/>
+<circle cx="374" cy="244" r="9" fill="#D85A30"/><text x="374" y="244" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="390" y="240" font-size="11.5" fill="#2C2C2A">前臂轻推前送、拇指控制</text>
+<line x1="558" y1="244" x2="586" y2="242" stroke="#444441" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M560 252 L586 250" stroke="#D85A30" stroke-width="1.3" stroke-dasharray="3 2" marker-end="url(#arrow)"/>
+<circle cx="374" cy="300" r="9" fill="#D85A30"/><text x="374" y="300" font-size="11" font-weight="500" fill="#FFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="390" y="296" font-size="11.5" fill="#2C2C2A">不甩腕不上挑，随挥短</text>
+<ellipse cx="568" cy="294" rx="3.5" ry="7" transform="rotate(70 568 294)" fill="none" stroke="#444441" stroke-width="2"/>
+<path d="M572 302 Q584 304 588 310" fill="none" stroke="#888780" stroke-width="1.3" stroke-dasharray="3 3" marker-end="url(#arrow)"/>
+<text x="368" y="366" font-size="11" fill="#993C1D">目标：贴网过、落前发球线附近；引拍与发后场一致</text>
+<rect x="40" y="392" width="606" height="52" rx="10" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+<text x="56" y="410" font-size="11.5" fill="#2C2C2A">规则红线：球低于 1.15m · 一气呵成不二次挥拍 · 双脚有部分触地</text>
+<text x="56" y="426" font-size="11.5" fill="#2C2C2A">先中球托、释放不加旋</text>
+<text x="56" y="440" font-size="11" fill="#993C1D">验收：各 10 个，正手 ≥8 个到底线区、反手 ≥8 个贴网落发球线，0 违例</text>
+</svg>
